@@ -1,0 +1,768 @@
+F:\软件测试实验室项目\MR\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+F:\软件测试实验室项目\MR\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+F:\软件测试实验室项目\MR\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+F:\软件测试实验室项目\MR\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+F:\软件测试实验室项目\MR\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\软件测试实验室项目\MR\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+F:\软件测试实验室项目\MR\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+F:\软件测试实验室项目\MR\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+F:\软件测试实验室项目\MR\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+F:\软件测试实验室项目\MR\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+F:\软件测试实验室项目\MR\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+F:\软件测试实验室项目\MR\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+D:\Desktop\MetBench(12.6)\MetBench\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+D:\Desktop\MetBench(12.6)\MetBench\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.6)\MetBench\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.6)\MetBench\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+D:\Desktop\MetBench(12.6)\MetBench\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\MetBench(12.6)\MetBench\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+D:\Desktop\MetBench(12.6)\MetBench\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+D:\Desktop\MetBench(12.6)\MetBench\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\MetBench(12.6)\MetBench\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.6)\MetBench\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+D:\Desktop\MetBench(12.6)\MetBench\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.6)\MetBench\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+F:\软件测试实验室项目\MetBench(12.8)\MetBench\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+F:\软件测试实验室项目\MetBench(12.8)\MetBench\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+F:\软件测试实验室项目\MetBench(12.8)\MetBench\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+F:\软件测试实验室项目\MetBench(12.8)\MetBench\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+F:\软件测试实验室项目\MetBench(12.8)\MetBench\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\软件测试实验室项目\MetBench(12.8)\MetBench\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+F:\软件测试实验室项目\MetBench(12.8)\MetBench\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+F:\软件测试实验室项目\MetBench(12.8)\MetBench\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+F:\软件测试实验室项目\MetBench(12.8)\MetBench\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+F:\软件测试实验室项目\MetBench(12.8)\MetBench\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+F:\软件测试实验室项目\MetBench(12.8)\MetBench\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+F:\软件测试实验室项目\MetBench(12.8)\MetBench\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+D:\Desktop\MetBench(12.8.22.10)\MetBench(12.8.22.10)\MetBench\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+D:\Desktop\MetBench(12.8.22.10)\MetBench(12.8.22.10)\MetBench\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.8.22.10)\MetBench(12.8.22.10)\MetBench\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.8.22.10)\MetBench(12.8.22.10)\MetBench\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+D:\Desktop\MetBench(12.8.22.10)\MetBench(12.8.22.10)\MetBench\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\MetBench(12.8.22.10)\MetBench(12.8.22.10)\MetBench\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+D:\Desktop\MetBench(12.8.22.10)\MetBench(12.8.22.10)\MetBench\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+D:\Desktop\MetBench(12.8.22.10)\MetBench(12.8.22.10)\MetBench\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\MetBench(12.8.22.10)\MetBench(12.8.22.10)\MetBench\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.8.22.10)\MetBench(12.8.22.10)\MetBench\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+D:\Desktop\MetBench(12.8.22.10)\MetBench(12.8.22.10)\MetBench\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.8.22.10)\MetBench(12.8.22.10)\MetBench\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+D:\Desktop\MetBench(12.8.22.10)\MetBench(12.9.20.45)\MetBench\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+D:\Desktop\MetBench(12.8.22.10)\MetBench(12.9.20.45)\MetBench\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.8.22.10)\MetBench(12.9.20.45)\MetBench\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.8.22.10)\MetBench(12.9.20.45)\MetBench\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+D:\Desktop\MetBench(12.8.22.10)\MetBench(12.9.20.45)\MetBench\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\MetBench(12.8.22.10)\MetBench(12.9.20.45)\MetBench\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+D:\Desktop\MetBench(12.8.22.10)\MetBench(12.9.20.45)\MetBench\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+D:\Desktop\MetBench(12.8.22.10)\MetBench(12.9.20.45)\MetBench\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\MetBench(12.8.22.10)\MetBench(12.9.20.45)\MetBench\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.8.22.10)\MetBench(12.9.20.45)\MetBench\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+D:\Desktop\MetBench(12.8.22.10)\MetBench(12.9.20.45)\MetBench\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.8.22.10)\MetBench(12.9.20.45)\MetBench\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+D:\Desktop\MetBench(12.9.20.45)\MetBench(12.9.20.45)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+D:\Desktop\MetBench(12.9.20.45)\MetBench(12.9.20.45)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.9.20.45)\MetBench(12.9.20.45)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.9.20.45)\MetBench(12.9.20.45)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+D:\Desktop\MetBench(12.9.20.45)\MetBench(12.9.20.45)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\MetBench(12.9.20.45)\MetBench(12.9.20.45)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+D:\Desktop\MetBench(12.9.20.45)\MetBench(12.9.20.45)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+D:\Desktop\MetBench(12.9.20.45)\MetBench(12.9.20.45)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\MetBench(12.9.20.45)\MetBench(12.9.20.45)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.9.20.45)\MetBench(12.9.20.45)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+D:\Desktop\MetBench(12.9.20.45)\MetBench(12.9.20.45)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.9.20.45)\MetBench(12.9.20.45)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+D:\Desktop\MetBench(12.9.20.45)-n\MetBench(12.9.20.45)\MetBench(12.9.20.45)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+D:\Desktop\MetBench(12.9.20.45)-n\MetBench(12.9.20.45)\MetBench(12.9.20.45)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.9.20.45)-n\MetBench(12.9.20.45)\MetBench(12.9.20.45)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.9.20.45)-n\MetBench(12.9.20.45)\MetBench(12.9.20.45)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+D:\Desktop\MetBench(12.9.20.45)-n\MetBench(12.9.20.45)\MetBench(12.9.20.45)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\MetBench(12.9.20.45)-n\MetBench(12.9.20.45)\MetBench(12.9.20.45)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+D:\Desktop\MetBench(12.9.20.45)-n\MetBench(12.9.20.45)\MetBench(12.9.20.45)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+D:\Desktop\MetBench(12.9.20.45)-n\MetBench(12.9.20.45)\MetBench(12.9.20.45)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\MetBench(12.9.20.45)-n\MetBench(12.9.20.45)\MetBench(12.9.20.45)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.9.20.45)-n\MetBench(12.9.20.45)\MetBench(12.9.20.45)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+D:\Desktop\MetBench(12.9.20.45)-n\MetBench(12.9.20.45)\MetBench(12.9.20.45)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.9.20.45)-n\MetBench(12.9.20.45)\MetBench(12.9.20.45)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+D:\Desktop\MetBench(12.12.14.41)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+D:\Desktop\MetBench(12.12.14.41)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.12.14.41)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.12.14.41)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+D:\Desktop\MetBench(12.12.14.41)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\MetBench(12.12.14.41)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+D:\Desktop\MetBench(12.12.14.41)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+D:\Desktop\MetBench(12.12.14.41)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\MetBench(12.12.14.41)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.12.14.41)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+D:\Desktop\MetBench(12.12.14.41)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.12.14.41)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+D:\Desktop\MetBench(12.12.19.01)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+D:\Desktop\MetBench(12.12.19.01)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.12.19.01)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.12.19.01)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+D:\Desktop\MetBench(12.12.19.01)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\MetBench(12.12.19.01)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+D:\Desktop\MetBench(12.12.19.01)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+D:\Desktop\MetBench(12.12.19.01)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\MetBench(12.12.19.01)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.12.19.01)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+D:\Desktop\MetBench(12.12.19.01)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.12.19.01)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+D:\Desktop\MetBench(12.12.21.03)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+D:\Desktop\MetBench(12.12.21.03)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.12.21.03)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.12.21.03)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+D:\Desktop\MetBench(12.12.21.03)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\MetBench(12.12.21.03)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+D:\Desktop\MetBench(12.12.21.03)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+D:\Desktop\MetBench(12.12.21.03)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\MetBench(12.12.21.03)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.12.21.03)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+D:\Desktop\MetBench(12.12.21.03)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.12.21.03)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+F:\MetBench1\MetBench(12.13.19.23)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+F:\MetBench1\MetBench(12.13.19.23)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+F:\MetBench1\MetBench(12.13.19.23)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+F:\MetBench1\MetBench(12.13.19.23)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+F:\MetBench1\MetBench(12.13.19.23)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\MetBench1\MetBench(12.13.19.23)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+F:\MetBench1\MetBench(12.13.19.23)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+F:\MetBench1\MetBench(12.13.19.23)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+F:\MetBench1\MetBench(12.13.19.23)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+F:\MetBench1\MetBench(12.13.19.23)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+F:\MetBench1\MetBench(12.13.19.23)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+F:\MetBench1\MetBench(12.13.19.23)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+D:\Desktop\MetBench(12.13.20.31)\MetBench(12.13.20.31)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+D:\Desktop\MetBench(12.13.20.31)\MetBench(12.13.20.31)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.13.20.31)\MetBench(12.13.20.31)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.13.20.31)\MetBench(12.13.20.31)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+D:\Desktop\MetBench(12.13.20.31)\MetBench(12.13.20.31)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\MetBench(12.13.20.31)\MetBench(12.13.20.31)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+D:\Desktop\MetBench(12.13.20.31)\MetBench(12.13.20.31)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+D:\Desktop\MetBench(12.13.20.31)\MetBench(12.13.20.31)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\MetBench(12.13.20.31)\MetBench(12.13.20.31)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.13.20.31)\MetBench(12.13.20.31)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+D:\Desktop\MetBench(12.13.20.31)\MetBench(12.13.20.31)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.13.20.31)\MetBench(12.13.20.31)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+F:\MetBench1\MetBench(12.13.20.58)\MetBench(12.13.20.31)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+F:\MetBench1\MetBench(12.13.20.58)\MetBench(12.13.20.31)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+F:\MetBench1\MetBench(12.13.20.58)\MetBench(12.13.20.31)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+F:\MetBench1\MetBench(12.13.20.58)\MetBench(12.13.20.31)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+F:\MetBench1\MetBench(12.13.20.58)\MetBench(12.13.20.31)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\MetBench1\MetBench(12.13.20.58)\MetBench(12.13.20.31)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+F:\MetBench1\MetBench(12.13.20.58)\MetBench(12.13.20.31)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+F:\MetBench1\MetBench(12.13.20.58)\MetBench(12.13.20.31)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+F:\MetBench1\MetBench(12.13.20.58)\MetBench(12.13.20.31)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+F:\MetBench1\MetBench(12.13.20.58)\MetBench(12.13.20.31)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+F:\MetBench1\MetBench(12.13.20.58)\MetBench(12.13.20.31)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+F:\MetBench1\MetBench(12.13.20.58)\MetBench(12.13.20.31)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+F:\MetBench1\MetBench(12.13.20.58)\MetBench(12.13.23.27)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+F:\MetBench1\MetBench(12.13.20.58)\MetBench(12.13.23.27)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+F:\MetBench1\MetBench(12.13.20.58)\MetBench(12.13.23.27)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+F:\MetBench1\MetBench(12.13.20.58)\MetBench(12.13.23.27)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+F:\MetBench1\MetBench(12.13.20.58)\MetBench(12.13.23.27)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\MetBench1\MetBench(12.13.20.58)\MetBench(12.13.23.27)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+F:\MetBench1\MetBench(12.13.20.58)\MetBench(12.13.23.27)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+F:\MetBench1\MetBench(12.13.20.58)\MetBench(12.13.23.27)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+F:\MetBench1\MetBench(12.13.20.58)\MetBench(12.13.23.27)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+F:\MetBench1\MetBench(12.13.20.58)\MetBench(12.13.23.27)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+F:\MetBench1\MetBench(12.13.20.58)\MetBench(12.13.23.27)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+F:\MetBench1\MetBench(12.13.20.58)\MetBench(12.13.23.27)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+F:\MetBench1\MetBench(12.17.13.58)\MetBench(12.13.23.27)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+F:\MetBench1\MetBench(12.17.13.58)\MetBench(12.13.23.27)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+F:\MetBench1\MetBench(12.17.13.58)\MetBench(12.13.23.27)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+F:\MetBench1\MetBench(12.17.13.58)\MetBench(12.13.23.27)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+F:\MetBench1\MetBench(12.17.13.58)\MetBench(12.13.23.27)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\MetBench1\MetBench(12.17.13.58)\MetBench(12.13.23.27)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+F:\MetBench1\MetBench(12.17.13.58)\MetBench(12.13.23.27)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+F:\MetBench1\MetBench(12.17.13.58)\MetBench(12.13.23.27)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+F:\MetBench1\MetBench(12.17.13.58)\MetBench(12.13.23.27)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+F:\MetBench1\MetBench(12.17.13.58)\MetBench(12.13.23.27)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+F:\MetBench1\MetBench(12.17.13.58)\MetBench(12.13.23.27)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+F:\MetBench1\MetBench(12.17.13.58)\MetBench(12.13.23.27)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+D:\Desktop\MetBench(12.13.18.11)\MetBench(12.13.18.11)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+D:\Desktop\MetBench(12.13.18.11)\MetBench(12.13.18.11)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.13.18.11)\MetBench(12.13.18.11)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.13.18.11)\MetBench(12.13.18.11)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+D:\Desktop\MetBench(12.13.18.11)\MetBench(12.13.18.11)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\MetBench(12.13.18.11)\MetBench(12.13.18.11)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+D:\Desktop\MetBench(12.13.18.11)\MetBench(12.13.18.11)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+D:\Desktop\MetBench(12.13.18.11)\MetBench(12.13.18.11)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\MetBench(12.13.18.11)\MetBench(12.13.18.11)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.13.18.11)\MetBench(12.13.18.11)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+D:\Desktop\MetBench(12.13.18.11)\MetBench(12.13.18.11)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.13.18.11)\MetBench(12.13.18.11)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+D:\Desktop\MetBench(12.17.18.34)\MetBench(12.17.18.34)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+D:\Desktop\MetBench(12.17.18.34)\MetBench(12.17.18.34)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.17.18.34)\MetBench(12.17.18.34)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.17.18.34)\MetBench(12.17.18.34)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+D:\Desktop\MetBench(12.17.18.34)\MetBench(12.17.18.34)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\MetBench(12.17.18.34)\MetBench(12.17.18.34)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+D:\Desktop\MetBench(12.17.18.34)\MetBench(12.17.18.34)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+D:\Desktop\MetBench(12.17.18.34)\MetBench(12.17.18.34)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\MetBench(12.17.18.34)\MetBench(12.17.18.34)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.17.18.34)\MetBench(12.17.18.34)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+D:\Desktop\MetBench(12.17.18.34)\MetBench(12.17.18.34)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.17.18.34)\MetBench(12.17.18.34)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+D:\Desktop\备份\MetBench(12.17.18.34)\MetBench(12.17.18.34)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+D:\Desktop\备份\MetBench(12.17.18.34)\MetBench(12.17.18.34)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\备份\MetBench(12.17.18.34)\MetBench(12.17.18.34)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\备份\MetBench(12.17.18.34)\MetBench(12.17.18.34)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+D:\Desktop\备份\MetBench(12.17.18.34)\MetBench(12.17.18.34)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\备份\MetBench(12.17.18.34)\MetBench(12.17.18.34)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+D:\Desktop\备份\MetBench(12.17.18.34)\MetBench(12.17.18.34)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+D:\Desktop\备份\MetBench(12.17.18.34)\MetBench(12.17.18.34)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\备份\MetBench(12.17.18.34)\MetBench(12.17.18.34)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\备份\MetBench(12.17.18.34)\MetBench(12.17.18.34)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+D:\Desktop\备份\MetBench(12.17.18.34)\MetBench(12.17.18.34)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\备份\MetBench(12.17.18.34)\MetBench(12.17.18.34)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+D:\Desktop\备份\MetBench(12.17.18.34)\MetBench(12.18.16.31)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+D:\Desktop\备份\MetBench(12.17.18.34)\MetBench(12.18.16.31)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\备份\MetBench(12.17.18.34)\MetBench(12.18.16.31)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\备份\MetBench(12.17.18.34)\MetBench(12.18.16.31)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+D:\Desktop\备份\MetBench(12.17.18.34)\MetBench(12.18.16.31)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\备份\MetBench(12.17.18.34)\MetBench(12.18.16.31)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+D:\Desktop\备份\MetBench(12.17.18.34)\MetBench(12.18.16.31)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+D:\Desktop\备份\MetBench(12.17.18.34)\MetBench(12.18.16.31)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\备份\MetBench(12.17.18.34)\MetBench(12.18.16.31)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\备份\MetBench(12.17.18.34)\MetBench(12.18.16.31)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+D:\Desktop\备份\MetBench(12.17.18.34)\MetBench(12.18.16.31)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\备份\MetBench(12.17.18.34)\MetBench(12.18.16.31)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+D:\Desktop\MetBench(12.18.16.31)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+D:\Desktop\MetBench(12.18.16.31)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.18.16.31)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.18.16.31)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+D:\Desktop\MetBench(12.18.16.31)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\MetBench(12.18.16.31)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+D:\Desktop\MetBench(12.18.16.31)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+D:\Desktop\MetBench(12.18.16.31)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\MetBench(12.18.16.31)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.18.16.31)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+D:\Desktop\MetBench(12.18.16.31)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.18.16.31)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+F:\MetBech2\MetBench(12.18.17.21)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+F:\MetBech2\MetBench(12.18.17.21)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+F:\MetBech2\MetBench(12.18.17.21)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+F:\MetBech2\MetBench(12.18.17.21)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+F:\MetBech2\MetBench(12.18.17.21)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\MetBech2\MetBench(12.18.17.21)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+F:\MetBech2\MetBench(12.18.17.21)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+F:\MetBech2\MetBench(12.18.17.21)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+F:\MetBech2\MetBench(12.18.17.21)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+F:\MetBech2\MetBench(12.18.17.21)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+F:\MetBech2\MetBench(12.18.17.21)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+F:\MetBech2\MetBench(12.18.17.21)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+F:\MetBech2\MetBench(12.18.17.34)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+F:\MetBech2\MetBench(12.18.17.34)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+F:\MetBech2\MetBench(12.18.17.34)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+F:\MetBech2\MetBench(12.18.17.34)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+F:\MetBech2\MetBench(12.18.17.34)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\MetBech2\MetBench(12.18.17.34)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+F:\MetBech2\MetBench(12.18.17.34)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+F:\MetBech2\MetBench(12.18.17.34)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+F:\MetBech2\MetBench(12.18.17.34)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+F:\MetBech2\MetBench(12.18.17.34)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+F:\MetBech2\MetBench(12.18.17.34)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+F:\MetBech2\MetBench(12.18.17.34)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+F:\MetBech2\MetBench(12.18.18.05)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+F:\MetBech2\MetBench(12.18.18.05)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+F:\MetBech2\MetBench(12.18.18.05)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+F:\MetBech2\MetBench(12.18.18.05)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+F:\MetBech2\MetBench(12.18.18.05)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\MetBech2\MetBench(12.18.18.05)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+F:\MetBech2\MetBench(12.18.18.05)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+F:\MetBech2\MetBench(12.18.18.05)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+F:\MetBech2\MetBench(12.18.18.05)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+F:\MetBech2\MetBench(12.18.18.05)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+F:\MetBech2\MetBench(12.18.18.05)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+F:\MetBech2\MetBench(12.18.18.05)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+F:\MetBech2\MetBench(12.18.23.05)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+F:\MetBech2\MetBench(12.18.23.05)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+F:\MetBech2\MetBench(12.18.23.05)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+F:\MetBech2\MetBench(12.18.23.05)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+F:\MetBech2\MetBench(12.18.23.05)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\MetBech2\MetBench(12.18.23.05)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+F:\MetBech2\MetBench(12.18.23.05)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+F:\MetBech2\MetBench(12.18.23.05)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+F:\MetBech2\MetBench(12.18.23.05)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+F:\MetBech2\MetBench(12.18.23.05)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+F:\MetBech2\MetBench(12.18.23.05)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+F:\MetBech2\MetBench(12.18.23.05)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+D:\Desktop\MetBench(12.19.19.25)\MetBench(12.19.19.25)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+D:\Desktop\MetBench(12.19.19.25)\MetBench(12.19.19.25)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.19.19.25)\MetBench(12.19.19.25)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.19.19.25)\MetBench(12.19.19.25)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+D:\Desktop\MetBench(12.19.19.25)\MetBench(12.19.19.25)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\MetBench(12.19.19.25)\MetBench(12.19.19.25)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+D:\Desktop\MetBench(12.19.19.25)\MetBench(12.19.19.25)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+D:\Desktop\MetBench(12.19.19.25)\MetBench(12.19.19.25)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\MetBench(12.19.19.25)\MetBench(12.19.19.25)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.19.19.25)\MetBench(12.19.19.25)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+D:\Desktop\MetBench(12.19.19.25)\MetBench(12.19.19.25)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.19.19.25)\MetBench(12.19.19.25)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+F:\MetBech2\MetBench(12.19.20.29)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+F:\MetBech2\MetBench(12.19.20.29)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+F:\MetBech2\MetBench(12.19.20.29)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+F:\MetBech2\MetBench(12.19.20.29)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+F:\MetBech2\MetBench(12.19.20.29)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\MetBech2\MetBench(12.19.20.29)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+F:\MetBech2\MetBench(12.19.20.29)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+F:\MetBech2\MetBench(12.19.20.29)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+F:\MetBech2\MetBench(12.19.20.29)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+F:\MetBech2\MetBench(12.19.20.29)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+F:\MetBech2\MetBench(12.19.20.29)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+F:\MetBech2\MetBench(12.19.20.29)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+D:\Desktop\MetBench(12.19.20.40)\MetBench(12.19.20.40)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+D:\Desktop\MetBench(12.19.20.40)\MetBench(12.19.20.40)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.19.20.40)\MetBench(12.19.20.40)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.19.20.40)\MetBench(12.19.20.40)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+D:\Desktop\MetBench(12.19.20.40)\MetBench(12.19.20.40)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\MetBench(12.19.20.40)\MetBench(12.19.20.40)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+D:\Desktop\MetBench(12.19.20.40)\MetBench(12.19.20.40)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+D:\Desktop\MetBench(12.19.20.40)\MetBench(12.19.20.40)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\MetBench(12.19.20.40)\MetBench(12.19.20.40)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.19.20.40)\MetBench(12.19.20.40)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+D:\Desktop\MetBench(12.19.20.40)\MetBench(12.19.20.40)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.19.20.40)\MetBench(12.19.20.40)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+D:\Desktop\MetBench(12.24.20.19)\MetBench(12.24.20.19)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+D:\Desktop\MetBench(12.24.20.19)\MetBench(12.24.20.19)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.24.20.19)\MetBench(12.24.20.19)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.24.20.19)\MetBench(12.24.20.19)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+D:\Desktop\MetBench(12.24.20.19)\MetBench(12.24.20.19)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\MetBench(12.24.20.19)\MetBench(12.24.20.19)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+D:\Desktop\MetBench(12.24.20.19)\MetBench(12.24.20.19)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+D:\Desktop\MetBench(12.24.20.19)\MetBench(12.24.20.19)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\MetBench(12.24.20.19)\MetBench(12.24.20.19)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.24.20.19)\MetBench(12.24.20.19)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+D:\Desktop\MetBench(12.24.20.19)\MetBench(12.24.20.19)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.24.20.19)\MetBench(12.24.20.19)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+D:\SoftTests\MR管理平台\MetBench(12.24.23.13)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+D:\SoftTests\MR管理平台\MetBench(12.24.23.13)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+D:\SoftTests\MR管理平台\MetBench(12.24.23.13)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+D:\SoftTests\MR管理平台\MetBench(12.24.23.13)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+D:\SoftTests\MR管理平台\MetBench(12.24.23.13)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftTests\MR管理平台\MetBench(12.24.23.13)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+D:\SoftTests\MR管理平台\MetBench(12.24.23.13)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+D:\SoftTests\MR管理平台\MetBench(12.24.23.13)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+D:\SoftTests\MR管理平台\MetBench(12.24.23.13)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+D:\SoftTests\MR管理平台\MetBench(12.24.23.13)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+D:\SoftTests\MR管理平台\MetBench(12.24.23.13)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+D:\SoftTests\MR管理平台\MetBench(12.24.23.13)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+D:\Desktop\MetBench(12.24.23.13)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+D:\Desktop\MetBench(12.24.23.13)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.24.23.13)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.24.23.13)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+D:\Desktop\MetBench(12.24.23.13)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\MetBench(12.24.23.13)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+D:\Desktop\MetBench(12.24.23.13)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+D:\Desktop\MetBench(12.24.23.13)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\MetBench(12.24.23.13)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.24.23.13)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+D:\Desktop\MetBench(12.24.23.13)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.24.23.13)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+D:\Desktop\MetBench(12.26.13.04)\MetBench(12.26.13.04)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+D:\Desktop\MetBench(12.26.13.04)\MetBench(12.26.13.04)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.26.13.04)\MetBench(12.26.13.04)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.26.13.04)\MetBench(12.26.13.04)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+D:\Desktop\MetBench(12.26.13.04)\MetBench(12.26.13.04)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\MetBench(12.26.13.04)\MetBench(12.26.13.04)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+D:\Desktop\MetBench(12.26.13.04)\MetBench(12.26.13.04)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+D:\Desktop\MetBench(12.26.13.04)\MetBench(12.26.13.04)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\MetBench(12.26.13.04)\MetBench(12.26.13.04)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.26.13.04)\MetBench(12.26.13.04)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+D:\Desktop\MetBench(12.26.13.04)\MetBench(12.26.13.04)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.26.13.04)\MetBench(12.26.13.04)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+D:\CodeProgram\Visual Studio\workspace\MetBench(12.26.19.30)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+D:\CodeProgram\Visual Studio\workspace\MetBench(12.26.19.30)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+D:\CodeProgram\Visual Studio\workspace\MetBench(12.26.19.30)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+D:\CodeProgram\Visual Studio\workspace\MetBench(12.26.19.30)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+D:\CodeProgram\Visual Studio\workspace\MetBench(12.26.19.30)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeProgram\Visual Studio\workspace\MetBench(12.26.19.30)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+D:\CodeProgram\Visual Studio\workspace\MetBench(12.26.19.30)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+D:\CodeProgram\Visual Studio\workspace\MetBench(12.26.19.30)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+D:\CodeProgram\Visual Studio\workspace\MetBench(12.26.19.30)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+D:\CodeProgram\Visual Studio\workspace\MetBench(12.26.19.30)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+D:\CodeProgram\Visual Studio\workspace\MetBench(12.26.19.30)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+D:\CodeProgram\Visual Studio\workspace\MetBench(12.26.19.30)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+D:\CodeProgram\WorkSpaces\MetBench(12.26.19.30)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+D:\CodeProgram\WorkSpaces\MetBench(12.26.19.30)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+D:\CodeProgram\WorkSpaces\MetBench(12.26.19.30)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+D:\CodeProgram\WorkSpaces\MetBench(12.26.19.30)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+D:\CodeProgram\WorkSpaces\MetBench(12.26.19.30)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeProgram\WorkSpaces\MetBench(12.26.19.30)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+D:\CodeProgram\WorkSpaces\MetBench(12.26.19.30)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+D:\CodeProgram\WorkSpaces\MetBench(12.26.19.30)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+D:\CodeProgram\WorkSpaces\MetBench(12.26.19.30)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+D:\CodeProgram\WorkSpaces\MetBench(12.26.19.30)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+D:\CodeProgram\WorkSpaces\MetBench(12.26.19.30)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+D:\CodeProgram\WorkSpaces\MetBench(12.26.19.30)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+F:\MetBench4\MetBench(12.26.19.30)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+F:\MetBench4\MetBench(12.26.19.30)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+F:\MetBench4\MetBench(12.26.19.30)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+F:\MetBench4\MetBench(12.26.19.30)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+F:\MetBench4\MetBench(12.26.19.30)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\MetBench4\MetBench(12.26.19.30)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+F:\MetBench4\MetBench(12.26.19.30)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+F:\MetBench4\MetBench(12.26.19.30)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+F:\MetBench4\MetBench(12.26.19.30)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+F:\MetBench4\MetBench(12.26.19.30)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+F:\MetBench4\MetBench(12.26.19.30)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+F:\MetBench4\MetBench(12.26.19.30)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.29.14.09)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.29.14.09)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.29.14.09)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.29.14.09)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.29.14.09)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.29.14.09)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.29.14.09)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.29.14.09)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.29.14.09)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.29.14.09)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.29.14.09)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.29.14.09)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.29.23.29)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.29.23.29)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.29.23.29)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.29.23.29)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.29.23.29)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.29.23.29)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.29.23.29)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.29.23.29)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.29.23.29)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.29.23.29)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.29.23.29)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.29.23.29)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.28.17.04)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.28.17.04)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.28.17.04)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.28.17.04)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.28.17.04)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.28.17.04)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.28.17.04)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.28.17.04)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.28.17.04)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.28.17.04)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.28.17.04)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.28.17.04)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.29.0.45)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.29.0.45)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.29.0.45)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.29.0.45)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.29.0.45)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.29.0.45)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.29.0.45)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.29.0.45)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.29.0.45)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.29.0.45)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.29.0.45)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.29.14.09)\MetBench(12.29.0.45)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+D:\Desktop\MetBench(12.29.0.45)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+D:\Desktop\MetBench(12.29.0.45)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.29.0.45)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.29.0.45)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+D:\Desktop\MetBench(12.29.0.45)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\MetBench(12.29.0.45)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+D:\Desktop\MetBench(12.29.0.45)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+D:\Desktop\MetBench(12.29.0.45)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\MetBench(12.29.0.45)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.29.0.45)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+D:\Desktop\MetBench(12.29.0.45)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.29.0.45)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+D:\Desktop\MetBench(12.29.14.23)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+D:\Desktop\MetBench(12.29.14.23)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.29.14.23)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.29.14.23)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+D:\Desktop\MetBench(12.29.14.23)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\MetBench(12.29.14.23)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+D:\Desktop\MetBench(12.29.14.23)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+D:\Desktop\MetBench(12.29.14.23)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\MetBench(12.29.14.23)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(12.29.14.23)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+D:\Desktop\MetBench(12.29.14.23)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(12.29.14.23)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+F:\MetBench4\m\MetBench(1.8.22.51)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+F:\MetBench4\m\MetBench(1.8.22.51)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+F:\MetBench4\m\MetBench(1.8.22.51)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+F:\MetBench4\m\MetBench(1.8.22.51)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+F:\MetBench4\m\MetBench(1.8.22.51)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\MetBench4\m\MetBench(1.8.22.51)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+F:\MetBench4\m\MetBench(1.8.22.51)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+F:\MetBench4\m\MetBench(1.8.22.51)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+F:\MetBench4\m\MetBench(1.8.22.51)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+F:\MetBench4\m\MetBench(1.8.22.51)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+F:\MetBench4\m\MetBench(1.8.22.51)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+F:\MetBench4\m\MetBench(1.8.22.51)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+F:\MetBench4\m\MetBench(1.8.23.04)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+F:\MetBench4\m\MetBench(1.8.23.04)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+F:\MetBench4\m\MetBench(1.8.23.04)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+F:\MetBench4\m\MetBench(1.8.23.04)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+F:\MetBench4\m\MetBench(1.8.23.04)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\MetBench4\m\MetBench(1.8.23.04)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+F:\MetBench4\m\MetBench(1.8.23.04)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+F:\MetBench4\m\MetBench(1.8.23.04)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+F:\MetBench4\m\MetBench(1.8.23.04)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+F:\MetBench4\m\MetBench(1.8.23.04)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+F:\MetBench4\m\MetBench(1.8.23.04)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+F:\MetBench4\m\MetBench(1.8.23.04)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+F:\MetBench4\m\MetBench(1.9.18.57)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+F:\MetBench4\m\MetBench(1.9.18.57)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+F:\MetBench4\m\MetBench(1.9.18.57)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+F:\MetBench4\m\MetBench(1.9.18.57)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+F:\MetBench4\m\MetBench(1.9.18.57)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\MetBench4\m\MetBench(1.9.18.57)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+F:\MetBench4\m\MetBench(1.9.18.57)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+F:\MetBench4\m\MetBench(1.9.18.57)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+F:\MetBench4\m\MetBench(1.9.18.57)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+F:\MetBench4\m\MetBench(1.9.18.57)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+F:\MetBench4\m\MetBench(1.9.18.57)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+F:\MetBench4\m\MetBench(1.9.18.57)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+F:\MetBench4\m\MetBench(1.9.22.16)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+F:\MetBench4\m\MetBench(1.9.22.16)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+F:\MetBench4\m\MetBench(1.9.22.16)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+F:\MetBench4\m\MetBench(1.9.22.16)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+F:\MetBench4\m\MetBench(1.9.22.16)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\MetBench4\m\MetBench(1.9.22.16)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+F:\MetBench4\m\MetBench(1.9.22.16)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+F:\MetBench4\m\MetBench(1.9.22.16)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+F:\MetBench4\m\MetBench(1.9.22.16)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+F:\MetBench4\m\MetBench(1.9.22.16)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+F:\MetBench4\m\MetBench(1.9.22.16)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+F:\MetBench4\m\MetBench(1.9.22.16)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+F:\MetBench4\m\MetBench(1.9.23.19)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+F:\MetBench4\m\MetBench(1.9.23.19)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+F:\MetBench4\m\MetBench(1.9.23.19)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+F:\MetBench4\m\MetBench(1.9.23.19)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+F:\MetBench4\m\MetBench(1.9.23.19)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\MetBench4\m\MetBench(1.9.23.19)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+F:\MetBench4\m\MetBench(1.9.23.19)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+F:\MetBench4\m\MetBench(1.9.23.19)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+F:\MetBench4\m\MetBench(1.9.23.19)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+F:\MetBench4\m\MetBench(1.9.23.19)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+F:\MetBench4\m\MetBench(1.9.23.19)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+F:\MetBench4\m\MetBench(1.9.23.19)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+C:\Users\86156\Desktop\MetBench(1.9.23.19)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+C:\Users\86156\Desktop\MetBench(1.9.23.19)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+C:\Users\86156\Desktop\MetBench(1.9.23.19)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+C:\Users\86156\Desktop\MetBench(1.9.23.19)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+C:\Users\86156\Desktop\MetBench(1.9.23.19)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\86156\Desktop\MetBench(1.9.23.19)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+C:\Users\86156\Desktop\MetBench(1.9.23.19)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+C:\Users\86156\Desktop\MetBench(1.9.23.19)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+C:\Users\86156\Desktop\MetBench(1.9.23.19)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+C:\Users\86156\Desktop\MetBench(1.9.23.19)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+C:\Users\86156\Desktop\MetBench(1.9.23.19)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+C:\Users\86156\Desktop\MetBench(1.9.23.19)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+D:\1\wyl\MetBench(1.9.23.19)(1)\MetBench(1.9.23.19)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+D:\1\wyl\MetBench(1.9.23.19)(1)\MetBench(1.9.23.19)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+D:\1\wyl\MetBench(1.9.23.19)(1)\MetBench(1.9.23.19)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+D:\1\wyl\MetBench(1.9.23.19)(1)\MetBench(1.9.23.19)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+D:\1\wyl\MetBench(1.9.23.19)(1)\MetBench(1.9.23.19)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\1\wyl\MetBench(1.9.23.19)(1)\MetBench(1.9.23.19)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+D:\1\wyl\MetBench(1.9.23.19)(1)\MetBench(1.9.23.19)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+D:\1\wyl\MetBench(1.9.23.19)(1)\MetBench(1.9.23.19)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+D:\1\wyl\MetBench(1.9.23.19)(1)\MetBench(1.9.23.19)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+D:\1\wyl\MetBench(1.9.23.19)(1)\MetBench(1.9.23.19)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+D:\1\wyl\MetBench(1.9.23.19)(1)\MetBench(1.9.23.19)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+D:\1\wyl\MetBench(1.9.23.19)(1)\MetBench(1.9.23.19)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+D:\Desktop\MetBench(1.11.16.48)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+D:\Desktop\MetBench(1.11.16.48)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(1.11.16.48)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(1.11.16.48)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+D:\Desktop\MetBench(1.11.16.48)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\MetBench(1.11.16.48)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+D:\Desktop\MetBench(1.11.16.48)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+D:\Desktop\MetBench(1.11.16.48)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\MetBench(1.11.16.48)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(1.11.16.48)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+D:\Desktop\MetBench(1.11.16.48)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(1.11.16.48)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+D:\Desktop\MetBench(1.11.20.06)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+D:\Desktop\MetBench(1.11.20.06)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(1.11.20.06)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(1.11.20.06)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+D:\Desktop\MetBench(1.11.20.06)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\MetBench(1.11.20.06)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+D:\Desktop\MetBench(1.11.20.06)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+D:\Desktop\MetBench(1.11.20.06)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\MetBench(1.11.20.06)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(1.11.20.06)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+D:\Desktop\MetBench(1.11.20.06)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(1.11.20.06)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+D:\Desktop\MetBench(1.11.21.22)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+D:\Desktop\MetBench(1.11.21.22)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(1.11.21.22)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(1.11.21.22)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+D:\Desktop\MetBench(1.11.21.22)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\MetBench(1.11.21.22)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+D:\Desktop\MetBench(1.11.21.22)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+D:\Desktop\MetBench(1.11.21.22)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\MetBench(1.11.21.22)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(1.11.21.22)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+D:\Desktop\MetBench(1.11.21.22)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(1.11.21.22)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+D:\Desktop\MetBench(测试版)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+D:\Desktop\MetBench(测试版)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(测试版)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(测试版)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+D:\Desktop\MetBench(测试版)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\MetBench(测试版)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+D:\Desktop\MetBench(测试版)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+D:\Desktop\MetBench(测试版)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\MetBench(测试版)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(测试版)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+D:\Desktop\MetBench(测试版)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(测试版)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+D:\Desktop\MetBench(test)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+D:\Desktop\MetBench(test)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(test)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(test)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+D:\Desktop\MetBench(test)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\MetBench(test)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+D:\Desktop\MetBench(test)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+D:\Desktop\MetBench(test)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\MetBench(test)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench(test)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+D:\Desktop\MetBench(test)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench(test)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+D:\Desktop\寒假1月份工作\MetBench(test)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+D:\Desktop\寒假1月份工作\MetBench(test)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\寒假1月份工作\MetBench(test)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\寒假1月份工作\MetBench(test)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+D:\Desktop\寒假1月份工作\MetBench(test)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\寒假1月份工作\MetBench(test)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+D:\Desktop\寒假1月份工作\MetBench(test)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+D:\Desktop\寒假1月份工作\MetBench(test)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\寒假1月份工作\MetBench(test)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\寒假1月份工作\MetBench(test)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+D:\Desktop\寒假1月份工作\MetBench(test)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\寒假1月份工作\MetBench(test)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+D:\Desktop\寒假1月份工作\MetBench 2.0.1-alpha.1+flaui.202201161600\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+D:\Desktop\寒假1月份工作\MetBench 2.0.1-alpha.1+flaui.202201161600\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\寒假1月份工作\MetBench 2.0.1-alpha.1+flaui.202201161600\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\寒假1月份工作\MetBench 2.0.1-alpha.1+flaui.202201161600\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+D:\Desktop\寒假1月份工作\MetBench 2.0.1-alpha.1+flaui.202201161600\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\寒假1月份工作\MetBench 2.0.1-alpha.1+flaui.202201161600\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+D:\Desktop\寒假1月份工作\MetBench 2.0.1-alpha.1+flaui.202201161600\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+D:\Desktop\寒假1月份工作\MetBench 2.0.1-alpha.1+flaui.202201161600\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\寒假1月份工作\MetBench 2.0.1-alpha.1+flaui.202201161600\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\寒假1月份工作\MetBench 2.0.1-alpha.1+flaui.202201161600\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+D:\Desktop\寒假1月份工作\MetBench 2.0.1-alpha.1+flaui.202201161600\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\寒假1月份工作\MetBench 2.0.1-alpha.1+flaui.202201161600\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+D:\Desktop\寒假1月份工作\MetBench 2.0.2-alpha.1+flaui.202201171900\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+D:\Desktop\寒假1月份工作\MetBench 2.0.2-alpha.1+flaui.202201171900\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\寒假1月份工作\MetBench 2.0.2-alpha.1+flaui.202201171900\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\寒假1月份工作\MetBench 2.0.2-alpha.1+flaui.202201171900\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+D:\Desktop\寒假1月份工作\MetBench 2.0.2-alpha.1+flaui.202201171900\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\寒假1月份工作\MetBench 2.0.2-alpha.1+flaui.202201171900\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+D:\Desktop\寒假1月份工作\MetBench 2.0.2-alpha.1+flaui.202201171900\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+D:\Desktop\寒假1月份工作\MetBench 2.0.2-alpha.1+flaui.202201171900\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\寒假1月份工作\MetBench 2.0.2-alpha.1+flaui.202201171900\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\寒假1月份工作\MetBench 2.0.2-alpha.1+flaui.202201171900\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+D:\Desktop\寒假1月份工作\MetBench 2.0.2-alpha.1+flaui.202201171900\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\寒假1月份工作\MetBench 2.0.2-alpha.1+flaui.202201171900\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+D:\Desktop\寒假1月份工作\MetBench 2.0.2-alpha.1+flaui.202201181641\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+D:\Desktop\寒假1月份工作\MetBench 2.0.2-alpha.1+flaui.202201181641\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\寒假1月份工作\MetBench 2.0.2-alpha.1+flaui.202201181641\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\寒假1月份工作\MetBench 2.0.2-alpha.1+flaui.202201181641\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+D:\Desktop\寒假1月份工作\MetBench 2.0.2-alpha.1+flaui.202201181641\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\寒假1月份工作\MetBench 2.0.2-alpha.1+flaui.202201181641\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+D:\Desktop\寒假1月份工作\MetBench 2.0.2-alpha.1+flaui.202201181641\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+D:\Desktop\寒假1月份工作\MetBench 2.0.2-alpha.1+flaui.202201181641\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\寒假1月份工作\MetBench 2.0.2-alpha.1+flaui.202201181641\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\寒假1月份工作\MetBench 2.0.2-alpha.1+flaui.202201181641\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+D:\Desktop\寒假1月份工作\MetBench 2.0.2-alpha.1+flaui.202201181641\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\寒假1月份工作\MetBench 2.0.2-alpha.1+flaui.202201181641\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+D:\Desktop\寒假1月份工作\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+D:\Desktop\寒假1月份工作\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\寒假1月份工作\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\寒假1月份工作\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+D:\Desktop\寒假1月份工作\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\寒假1月份工作\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+D:\Desktop\寒假1月份工作\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+D:\Desktop\寒假1月份工作\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\寒假1月份工作\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\寒假1月份工作\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+D:\Desktop\寒假1月份工作\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\寒假1月份工作\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+D:\Desktop\寒假1月份工作\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+D:\Desktop\寒假1月份工作\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\寒假1月份工作\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\寒假1月份工作\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+D:\Desktop\寒假1月份工作\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\寒假1月份工作\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+D:\Desktop\寒假1月份工作\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+D:\Desktop\寒假1月份工作\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\寒假1月份工作\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\寒假1月份工作\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+D:\Desktop\寒假1月份工作\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\寒假1月份工作\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+D:\Desktop\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+D:\Desktop\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+D:\Desktop\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+D:\Desktop\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+D:\Desktop\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+D:\Desktop\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+D:\Desktop\MetBench 2.0.4\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+D:\Desktop\MetBench 2.0.4\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench 2.0.4\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench 2.0.4\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+D:\Desktop\MetBench 2.0.4\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\MetBench 2.0.4\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+D:\Desktop\MetBench 2.0.4\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+D:\Desktop\MetBench 2.0.4\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\MetBench 2.0.4\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench 2.0.4\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+D:\Desktop\MetBench 2.0.4\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench 2.0.4\MetBench 2.0.4-alpha.1+flaui.202201191847\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+D:\Desktop\MetBench 2.0.4\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+D:\Desktop\MetBench 2.0.4\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench 2.0.4\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench 2.0.4\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+D:\Desktop\MetBench 2.0.4\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\MetBench 2.0.4\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+D:\Desktop\MetBench 2.0.4\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+D:\Desktop\MetBench 2.0.4\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\MetBench 2.0.4\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench 2.0.4\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+D:\Desktop\MetBench 2.0.4\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench 2.0.4\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+D:\Desktop\MetBench 2.0.4(202401201157)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+D:\Desktop\MetBench 2.0.4(202401201157)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench 2.0.4(202401201157)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench 2.0.4(202401201157)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+D:\Desktop\MetBench 2.0.4(202401201157)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\MetBench 2.0.4(202401201157)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+D:\Desktop\MetBench 2.0.4(202401201157)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+D:\Desktop\MetBench 2.0.4(202401201157)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\MetBench 2.0.4(202401201157)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+D:\Desktop\MetBench 2.0.4(202401201157)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+D:\Desktop\MetBench 2.0.4(202401201157)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+D:\Desktop\MetBench 2.0.4(202401201157)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll
+F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.deps.json
+F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.dll
+F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Domain\bin\Debug\net6.0\MetBench_Domain.pdb
+F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.dll
+F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Domain\obj\Debug\net6.0\refint\MetBench_Domain.dll
+F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Domain\obj\Debug\net6.0\MetBench_Domain.pdb
+F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Domain\obj\Debug\net6.0\ref\MetBench_Domain.dll

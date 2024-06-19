@@ -1,0 +1,21 @@
+﻿namespace MetBench_BLL
+{
+    public class MTParam
+    {
+        //输入模式的Latex格式
+        public string InputPatternSympy { get; set; } = string.Empty;
+        //输出模式的Latex格式
+        public string OutputPatternSympy { get; set; } = string.Empty;
+        //最小值
+        public string MinParam { get; set; } 
+        //最大值
+        public string MaxParam { get; set; } 
+        //执行次数
+        public string ExecutNumber { get; set; }
+        //阈值
+        public string Threshold {  get; set; }
+
+
+    }
+
+}

@@ -1,0 +1,75 @@
+E:\StyletCode\MR\MR_Management_Platform_ LiteDbRepository\bin\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.deps.json
+E:\StyletCode\MR\MR_Management_Platform_ LiteDbRepository\bin\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.dll
+E:\StyletCode\MR\MR_Management_Platform_ LiteDbRepository\bin\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.pdb
+E:\StyletCode\MR\MR_Management_Platform_ LiteDbRepository\bin\Debug\net6.0\MR_Management_Platform_Domain.dll
+E:\StyletCode\MR\MR_Management_Platform_ LiteDbRepository\bin\Debug\net6.0\MR_Management_Platform_Domain.pdb
+E:\StyletCode\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.csproj.AssemblyReference.cache
+E:\StyletCode\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.GeneratedMSBuildEditorConfig.editorconfig
+E:\StyletCode\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.AssemblyInfoInputs.cache
+E:\StyletCode\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.AssemblyInfo.cs
+E:\StyletCode\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.csproj.CoreCompileInputs.cache
+E:\StyletCode\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.csproj.CopyComplete
+E:\StyletCode\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.dll
+E:\StyletCode\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\refint\MR_Management_Platform_ LiteDbRepository.dll
+E:\StyletCode\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.pdb
+E:\StyletCode\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\ref\MR_Management_Platform_ LiteDbRepository.dll
+E:\StyletCode\MR\MR管理平台修改后的版本\MR_3.0\MR\MR_Management_Platform_ LiteDbRepository\bin\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.deps.json
+E:\StyletCode\MR\MR管理平台修改后的版本\MR_3.0\MR\MR_Management_Platform_ LiteDbRepository\bin\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.dll
+E:\StyletCode\MR\MR管理平台修改后的版本\MR_3.0\MR\MR_Management_Platform_ LiteDbRepository\bin\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.pdb
+E:\StyletCode\MR\MR管理平台修改后的版本\MR_3.0\MR\MR_Management_Platform_ LiteDbRepository\bin\Debug\net6.0\MR_Management_Platform_Domain.dll
+E:\StyletCode\MR\MR管理平台修改后的版本\MR_3.0\MR\MR_Management_Platform_ LiteDbRepository\bin\Debug\net6.0\MR_Management_Platform_Domain.pdb
+E:\StyletCode\MR\MR管理平台修改后的版本\MR_3.0\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.csproj.AssemblyReference.cache
+E:\StyletCode\MR\MR管理平台修改后的版本\MR_3.0\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.GeneratedMSBuildEditorConfig.editorconfig
+E:\StyletCode\MR\MR管理平台修改后的版本\MR_3.0\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.AssemblyInfoInputs.cache
+E:\StyletCode\MR\MR管理平台修改后的版本\MR_3.0\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.AssemblyInfo.cs
+E:\StyletCode\MR\MR管理平台修改后的版本\MR_3.0\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.csproj.CoreCompileInputs.cache
+E:\StyletCode\MR\MR管理平台修改后的版本\MR_3.0\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.csproj.CopyComplete
+E:\StyletCode\MR\MR管理平台修改后的版本\MR_3.0\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.dll
+E:\StyletCode\MR\MR管理平台修改后的版本\MR_3.0\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\refint\MR_Management_Platform_ LiteDbRepository.dll
+E:\StyletCode\MR\MR管理平台修改后的版本\MR_3.0\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.pdb
+E:\StyletCode\MR\MR管理平台修改后的版本\MR_3.0\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\ref\MR_Management_Platform_ LiteDbRepository.dll
+E:\StyletCode\MR\MR管理平台修改后的版本\MR4.0\MR4.0\MR\MR_Management_Platform_ LiteDbRepository\bin\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.deps.json
+E:\StyletCode\MR\MR管理平台修改后的版本\MR4.0\MR4.0\MR\MR_Management_Platform_ LiteDbRepository\bin\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.dll
+E:\StyletCode\MR\MR管理平台修改后的版本\MR4.0\MR4.0\MR\MR_Management_Platform_ LiteDbRepository\bin\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.pdb
+E:\StyletCode\MR\MR管理平台修改后的版本\MR4.0\MR4.0\MR\MR_Management_Platform_ LiteDbRepository\bin\Debug\net6.0\MR_Management_Platform_Domain.dll
+E:\StyletCode\MR\MR管理平台修改后的版本\MR4.0\MR4.0\MR\MR_Management_Platform_ LiteDbRepository\bin\Debug\net6.0\MR_Management_Platform_Domain.pdb
+E:\StyletCode\MR\MR管理平台修改后的版本\MR4.0\MR4.0\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.csproj.AssemblyReference.cache
+E:\StyletCode\MR\MR管理平台修改后的版本\MR4.0\MR4.0\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.GeneratedMSBuildEditorConfig.editorconfig
+E:\StyletCode\MR\MR管理平台修改后的版本\MR4.0\MR4.0\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.AssemblyInfoInputs.cache
+E:\StyletCode\MR\MR管理平台修改后的版本\MR4.0\MR4.0\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.AssemblyInfo.cs
+E:\StyletCode\MR\MR管理平台修改后的版本\MR4.0\MR4.0\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.csproj.CoreCompileInputs.cache
+E:\StyletCode\MR\MR管理平台修改后的版本\MR4.0\MR4.0\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.csproj.CopyComplete
+E:\StyletCode\MR\MR管理平台修改后的版本\MR4.0\MR4.0\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.dll
+E:\StyletCode\MR\MR管理平台修改后的版本\MR4.0\MR4.0\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\refint\MR_Management_Platform_ LiteDbRepository.dll
+E:\StyletCode\MR\MR管理平台修改后的版本\MR4.0\MR4.0\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.pdb
+E:\StyletCode\MR\MR管理平台修改后的版本\MR4.0\MR4.0\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\ref\MR_Management_Platform_ LiteDbRepository.dll
+D:\软件测试项目\MR管理平台修改版(10.8)\MR\MR_Management_Platform_ LiteDbRepository\bin\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.deps.json
+D:\软件测试项目\MR管理平台修改版(10.8)\MR\MR_Management_Platform_ LiteDbRepository\bin\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.dll
+D:\软件测试项目\MR管理平台修改版(10.8)\MR\MR_Management_Platform_ LiteDbRepository\bin\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.pdb
+D:\软件测试项目\MR管理平台修改版(10.8)\MR\MR_Management_Platform_ LiteDbRepository\bin\Debug\net6.0\MR_Management_Platform_Domain.dll
+D:\软件测试项目\MR管理平台修改版(10.8)\MR\MR_Management_Platform_ LiteDbRepository\bin\Debug\net6.0\MR_Management_Platform_Domain.pdb
+D:\软件测试项目\MR管理平台修改版(10.8)\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.csproj.AssemblyReference.cache
+D:\软件测试项目\MR管理平台修改版(10.8)\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\软件测试项目\MR管理平台修改版(10.8)\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.AssemblyInfoInputs.cache
+D:\软件测试项目\MR管理平台修改版(10.8)\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.AssemblyInfo.cs
+D:\软件测试项目\MR管理平台修改版(10.8)\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.csproj.CoreCompileInputs.cache
+D:\软件测试项目\MR管理平台修改版(10.8)\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.csproj.CopyComplete
+D:\软件测试项目\MR管理平台修改版(10.8)\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.dll
+D:\软件测试项目\MR管理平台修改版(10.8)\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\refint\MR_Management_Platform_ LiteDbRepository.dll
+D:\软件测试项目\MR管理平台修改版(10.8)\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.pdb
+D:\软件测试项目\MR管理平台修改版(10.8)\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\ref\MR_Management_Platform_ LiteDbRepository.dll
+F:\软件测试实验室项目\MR\MR_Management_Platform_ LiteDbRepository\bin\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.deps.json
+F:\软件测试实验室项目\MR\MR_Management_Platform_ LiteDbRepository\bin\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.dll
+F:\软件测试实验室项目\MR\MR_Management_Platform_ LiteDbRepository\bin\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.pdb
+F:\软件测试实验室项目\MR\MR_Management_Platform_ LiteDbRepository\bin\Debug\net6.0\MR_Management_Platform_Domain.dll
+F:\软件测试实验室项目\MR\MR_Management_Platform_ LiteDbRepository\bin\Debug\net6.0\MR_Management_Platform_Domain.pdb
+F:\软件测试实验室项目\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.csproj.AssemblyReference.cache
+F:\软件测试实验室项目\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.GeneratedMSBuildEditorConfig.editorconfig
+F:\软件测试实验室项目\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.AssemblyInfoInputs.cache
+F:\软件测试实验室项目\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.AssemblyInfo.cs
+F:\软件测试实验室项目\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.csproj.CoreCompileInputs.cache
+F:\软件测试实验室项目\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.csproj.CopyComplete
+F:\软件测试实验室项目\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.dll
+F:\软件测试实验室项目\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\refint\MR_Management_Platform_ LiteDbRepository.dll
+F:\软件测试实验室项目\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\MR_Management_Platform_ LiteDbRepository.pdb
+F:\软件测试实验室项目\MR\MR_Management_Platform_ LiteDbRepository\obj\Debug\net6.0\ref\MR_Management_Platform_ LiteDbRepository.dll

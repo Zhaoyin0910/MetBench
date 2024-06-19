@@ -1,0 +1,90 @@
+﻿<ui:UiPage x:Class="MetBench_Client.Views.Pages.AutoMRPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:MetBench_Client.Views.Pages"
+    xmlns:viewmodels="clr-namespace:MetBench_Client.ViewModels"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:ui="http://schemas.lepo.co/wpfui/2022/xaml"
+    xmlns:s="https://github.com/canton7/Stylet"
+    Title="AutoMRPage"
+    d:DataContext="{d:DesignInstance viewmodels:AutoMRViewModel}"
+    d:DesignHeight="800"
+    d:DesignWidth="1100"
+    d:Background="{DynamicResource ApplicationBackgroundBrush}"
+    Foreground="{DynamicResource TextFillColorPrimaryBrush}"
+    mc:Ignorable="d" AutomationProperties.AutomationId="TextBox_CodeName">
+    <Grid Loaded="PageLoaded">
+
+        <ui:TextBox FontSize="14" TextWrapping="Wrap" Text="{Binding ViewModel.MinParam,UpdateSourceTrigger=PropertyChanged,Mode=TwoWay}" Margin="156,280,796,0" VerticalAlignment="Top" AutomationProperties.AutomationId="TextBox_MinNumber"/>
+        <ui:Button s:View.ActionTarget="{Binding ViewModel}" Command="{s:Action btn_Cancle}"  Content="Reset" Height="30" Margin="368,278,0,0" VerticalAlignment="Top" Width="100" AutomationProperties.AutomationId="Button_Reset"/>
+        <TextBlock HorizontalAlignment="Left" Height="22" Margin="62,292,0,0" TextWrapping="Wrap" FontSize="14" VerticalAlignment="Top" Width="84" Text="MinNumber"></TextBlock>
+        <ui:TextBox FontSize="14" TextWrapping="Wrap" Text="{Binding ViewModel.MaxParam,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" Margin="156,339,796,0" VerticalAlignment="Top" AutomationProperties.AutomationId="TextBox_MaxNumber"/>
+        <TextBlock HorizontalAlignment="Left" Height="22" Margin="60,350,0,0" TextWrapping="Wrap" FontSize="14" VerticalAlignment="Top" Width="87" Text="MaxNumber"></TextBlock>
+        <ui:TextBox FontSize="14" TextWrapping="Wrap" Text="{Binding ViewModel.ExecutNumber,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" Margin="156,400,796,0" VerticalAlignment="Top" AutomationProperties.AutomationId="TextBox_ExecuteNumber"/>
+        <TextBlock HorizontalAlignment="Left" Height="22" Margin="45,406,0,0" TextWrapping="Wrap" Text="ExecuteNumber" FontSize="14" VerticalAlignment="Top" Width="100"/>
+        <ui:TextBox IsReadOnly="True" ClearButtonEnabled="False" FontSize="14" TextWrapping="Wrap" Text="{Binding ViewModel.CodeName,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" Margin="156,220,796,0" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Height="22" Margin="67,228,0,0" TextWrapping="Wrap" Text="CodeName" FontSize="14" VerticalAlignment="Top" Width="80"/>
+        <DataGrid AutoGenerateColumns="False"  HorizontalAlignment="Left"  ItemsSource="{Binding ViewModel.Data,UpdateSourceTrigger=PropertyChanged,Mode=TwoWay}" VerticalAlignment="Top"   CanUserAddRows="False" SelectedItem="{Binding ViewModel.MRSelectedItem,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" x:Name="datagrid"   Margin="107,26,0,0" AutomationProperties.AutomationId="DataGrid_MRSelectedItem">
+            <DataGrid.Columns>
+                <DataGridTemplateColumn>
+                    <DataGridTemplateColumn.Header>
+                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center"  Text="InputPattern"></TextBlock>
+                    </DataGridTemplateColumn.Header>
+                    <DataGridTemplateColumn.CellTemplate >
+                        <DataTemplate>
+                            <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalAlignment="Center" VerticalContentAlignment="Center">
+                                <Image Source="{Binding InputPatternImagepath}"/>
+                            </ScrollViewer>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn >
+                    <DataGridTemplateColumn.Header>
+                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="OutputPattern"></TextBlock>
+                    </DataGridTemplateColumn.Header>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalAlignment="Center" VerticalContentAlignment="Center">
+                                <Image Source="{Binding OutputPatternImagepath}" />
+                            </ScrollViewer>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+                <!--<DataGridTemplateColumn Header="InputPattern">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <ScrollViewer VerticalScrollBarVisibility="Auto">
+                                <Image Source="{Binding InputPatternImagepath}"/>
+                            </ScrollViewer>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn Header="OutputPattern">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <ScrollViewer VerticalScrollBarVisibility="Auto">
+                                <Image Source="{Binding OutputPatternImagepath}"/>
+                            </ScrollViewer>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>-->
+            </DataGrid.Columns>
+        </DataGrid>
+        <!--<Canvas  ClipToBounds="True"  Height="497" Width="571" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="484,124,0,0">
+            <Image Height="431" Width="472" Source="{Binding ViewModel.Image}"   HorizontalAlignment="Left" VerticalAlignment="Top" Canvas.Left="50" Canvas.Top="29" />
+        </Canvas>-->
+        <Canvas  ClipToBounds="True"  Height="496" Width="571" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="487,218,0,0">
+            <Image Height="432" Width="472" Source="{Binding ViewModel.Image}"   HorizontalAlignment="Left" VerticalAlignment="Top" Canvas.Left="46" Canvas.Top="24" AutomationProperties.AutomationId="Image_AutoRunMTResult"/>
+        </Canvas>
+        <ui:Button s:View.ActionTarget="{Binding ViewModel}" Command="{s:Action btn_AutoMR2}" Content="Execute MT" Margin="368,221,0,0" VerticalAlignment="Top" Width="100" AutomationProperties.AutomationId="Button_AutoRunMT"/>
+        <TextBlock HorizontalAlignment="Left" Height="22" Margin="77,458,0,0" TextWrapping="Wrap" Text="Threshold" FontSize="14" VerticalAlignment="Top" Width="70"/>
+        <ui:TextBox FontSize="14" TextWrapping="Wrap" Text="{Binding ViewModel.Threshold,Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"   Margin="156,452,796,0" VerticalAlignment="Top" AutomationProperties.AutomationId="TextBox_Threshold"/>
+        <ui:TextBox FontSize="14" TextWrapping="Wrap" Text="{Binding ViewModel.Passrate, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Margin="669,162,378,0" VerticalAlignment="Top" AutomationProperties.AutomationId="TextBox_Passrate"/>
+        <ui:TextBox FontSize="14" TextWrapping="Wrap" Text="{Binding ViewModel.Failurerate, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Margin="843,162,208,0" VerticalAlignment="Top" AutomationProperties.AutomationId="TextBox_Failurerate"/>
+        <TextBlock HorizontalAlignment="Left" Height="22" Margin="610,168,0,0" TextWrapping="Wrap" Text="Pass" FontSize="14" VerticalAlignment="Top" Width="44"/>
+        <TextBlock HorizontalAlignment="Left" Height="22" Margin="785,168,0,0" TextWrapping="Wrap" Text="Fail" FontSize="14" VerticalAlignment="Top" Width="46"/>
+    </Grid>
+
+</ui:UiPage>

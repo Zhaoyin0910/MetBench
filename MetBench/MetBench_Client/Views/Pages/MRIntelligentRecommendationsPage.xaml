@@ -1,0 +1,101 @@
+﻿<ui:UiPage x:Class="MetBench_Client.Views.Pages.MRIntelligentRecommendationsPage"
+   xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+xmlns:local="clr-namespace:MetBench_Client.Views.Pages"
+xmlns:viewmodels="clr-namespace:MetBench_Client.ViewModels"
+xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+xmlns:ui="http://schemas.lepo.co/wpfui/2022/xaml"
+xmlns:s="https://github.com/canton7/Stylet" 
+ Title="MRIntelligentRecommendationsPage"
+d:DataContext="{d:DesignInstance viewmodels:MRIntelligentRecommendationsViewModel}"
+d:DesignHeight="800"
+d:DesignWidth="1100"
+d:Background="{DynamicResource ApplicationBackgroundBrush}"
+Foreground="{DynamicResource TextFillColorPrimaryBrush}"
+mc:Ignorable="d">
+    <Grid Loaded="PageLoaded" Margin="0,-2,0,2">
+        <DataGrid  AutoGenerateColumns="False"  HorizontalAlignment="Left"  ItemsSource="{Binding ViewModel.Data,UpdateSourceTrigger=PropertyChanged,Mode=TwoWay}" VerticalAlignment="Top"   CanUserAddRows="False" x:Name="datagrid"   Margin="67,100,0,0" AutomationProperties.AutomationId="DataGrid_MRSelectedItem" >
+            <!--进行datagrid的TextColumn 进行居中-->
+            <DataGrid.Resources>
+                <Style x:Key="CenteredTextBlockStyle" TargetType="{x:Type TextBlock}">
+                    <Setter Property="VerticalAlignment" Value="Center"/>
+                    <Setter Property="HorizontalAlignment" Value="Center"/>
+                    <Setter Property="TextBlock.TextWrapping" Value="WrapWithOverflow"/>
+                </Style>
+            </DataGrid.Resources>
+            <DataGrid.Columns>
+                <DataGridTextColumn  IsReadOnly="True" ElementStyle="{StaticResource CenteredTextBlockStyle}"  Binding="{Binding Program}" >
+                    <DataGridTextColumn.Header>
+                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center"  Text="Program"></TextBlock>
+                    </DataGridTextColumn.Header>
+                </DataGridTextColumn>
+                <DataGridTextColumn  ElementStyle="{StaticResource CenteredTextBlockStyle}"  Binding="{Binding Similarity}">
+                    <DataGridTextColumn.Header>
+                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center"  Text="Similarity"></TextBlock>
+                    </DataGridTextColumn.Header>
+                </DataGridTextColumn>
+                <DataGridTemplateColumn IsReadOnly="True">
+                    <DataGridTemplateColumn.Header>
+                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center"  Text="InputPattern"></TextBlock>
+                    </DataGridTemplateColumn.Header>
+                    <DataGridTemplateColumn.CellTemplate >
+                        <DataTemplate>
+                            <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalAlignment="Center" VerticalContentAlignment="Center">
+                                <Image Source="{Binding InputPatternImagepath}"/>
+                            </ScrollViewer>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn IsReadOnly="True">
+                    <DataGridTemplateColumn.Header>
+                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="OutputPattern"></TextBlock>
+                    </DataGridTemplateColumn.Header>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalAlignment="Center" VerticalContentAlignment="Center">
+                                <Image Source="{Binding OutputPatternImagepath}" />
+                            </ScrollViewer>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn Width="170" IsReadOnly="True">
+                    <DataGridTemplateColumn.Header>
+                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center"  Text="MR Information"></TextBlock>
+                    </DataGridTemplateColumn.Header>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Click="Button_Click_LookMR" Width="100" Height="50" FontSize="14"  Content="查看" HorizontalAlignment="Center" AutomationProperties.AutomationId="Button_Modify"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn Width="170" IsReadOnly="True">
+                    <DataGridTemplateColumn.Header>
+                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center"  Text="Application Information"></TextBlock>
+                    </DataGridTemplateColumn.Header>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Click="Button_Click_LookApplication" Width="100" Height="50" FontSize="14"  Content="查看" HorizontalAlignment="Center" AutomationProperties.AutomationId="Button_Modify"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn Width="170" IsReadOnly="True">
+                    <DataGridTemplateColumn.Header>
+                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center"  Text="Domain Information"></TextBlock>
+                    </DataGridTemplateColumn.Header>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button  Width="100" Height="50" FontSize="14"  Content="查看" HorizontalAlignment="Center" AutomationProperties.AutomationId="Button_Modify"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <TextBlock Text="Program" FontSize="12" HorizontalAlignment="Left" Margin="70,45,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Height="16" Width="56" RenderTransformOrigin="1.278,0.662"/>
+        <ui:Button s:View.ActionTarget="{Binding ViewModel}" Command="{s:Action btnAddCode_Click}"  Content="UPL" Margin="132,38,0,0" AutomationProperties.AutomationId="Button_UploadSoftwareUnderTest" VerticalAlignment="Top"/>
+        <ui:TextBox TextWrapping="Wrap"  Text="sin.java" Margin="189,36,773,0" AutomationProperties.AutomationId="TextBox_SoftwareUnderTest" VerticalAlignment="Top" Cursor="IBeam"/>
+        <ui:Button s:View.ActionTarget="{Binding ViewModel}"  Content="×" Margin="329,37,0,0" Width="39" RenderTransformOrigin="-1.446,-0.531" AutomationProperties.AutomationId="Button_ClearSoftwareUnderTest" VerticalAlignment="Top"/>
+        <ui:Button s:View.ActionTarget="{Binding ViewModel}" Command="{s:Action btn_MRIntelligentRecommendations}"  Content="IR" Margin="385,36,0,0" AutomationProperties.AutomationId="Button_IntellingentRecommendations" Width="80" VerticalAlignment="Top"/>
+    </Grid>
+
+</ui:UiPage>

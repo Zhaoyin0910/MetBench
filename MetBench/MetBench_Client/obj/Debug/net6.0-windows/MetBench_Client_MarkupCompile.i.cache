@@ -1,0 +1,20 @@
+﻿MetBench_Client
+1.0.0.0
+
+winexe
+C#
+.cs
+F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\obj\Debug\net6.0-windows\
+MetBench_Client
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\App.xaml
+10-707723493
+1882702876
+361328730794
+234-1518309549
+Views\Pages\AddMRPage.xaml;Views\Pages\AutoMRPage.xaml;Views\Pages\DashboardPage.xaml;Views\Pages\DataPage.xaml;Views\Pages\DisplayMRPage.xaml;Views\Pages\EditApplicationPage.xaml;Views\Pages\EditDomainsPage.xaml;Views\Pages\MRIntelligentRecommendationsPage.xaml;Views\Pages\SettingsPage.xaml;Views\Windows\MainWindow.xaml;
+
+True
+

@@ -1,0 +1,406 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Desktop\\寒假1月份工作\\MetBench 2.0.1-alpha.1+flaui.202201161600\\MetBench_Client\\MetBench_Client.csproj": {}
+  },
+  "projects": {
+    "D:\\Desktop\\寒假1月份工作\\MetBench 2.0.1-alpha.1+flaui.202201161600\\MetBench_BLL\\MetBench_BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Desktop\\寒假1月份工作\\MetBench 2.0.1-alpha.1+flaui.202201161600\\MetBench_BLL\\MetBench_BLL.csproj",
+        "projectName": "MetBench_BLL",
+        "projectPath": "D:\\Desktop\\寒假1月份工作\\MetBench 2.0.1-alpha.1+flaui.202201161600\\MetBench_BLL\\MetBench_BLL.csproj",
+        "packagesPath": "C:\\Users\\zj\\.nuget\\packages\\",
+        "outputPath": "D:\\Desktop\\寒假1月份工作\\MetBench 2.0.1-alpha.1+flaui.202201161600\\MetBench_BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\zj\\.nuget\\packages": {},
+          "C:\\Users\\zj\\.nuget\\packages\\prism.wpf": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Desktop\\寒假1月份工作\\MetBench 2.0.1-alpha.1+flaui.202201161600\\MetBench_DAL\\MetBench_DAL.csproj": {
+                "projectPath": "D:\\Desktop\\寒假1月份工作\\MetBench 2.0.1-alpha.1+flaui.202201161600\\MetBench_DAL\\MetBench_DAL.csproj"
+              },
+              "D:\\Desktop\\寒假1月份工作\\MetBench 2.0.1-alpha.1+flaui.202201161600\\MetBench_IDAL\\MetBench_IDAL.csproj": {
+                "projectPath": "D:\\Desktop\\寒假1月份工作\\MetBench 2.0.1-alpha.1+flaui.202201161600\\MetBench_IDAL\\MetBench_IDAL.csproj"
+              },
+              "D:\\Desktop\\寒假1月份工作\\MetBench 2.0.1-alpha.1+flaui.202201161600\\MetBench_Test\\MetBench_Test.csproj": {
+                "projectPath": "D:\\Desktop\\寒假1月份工作\\MetBench 2.0.1-alpha.1+flaui.202201161600\\MetBench_Test\\MetBench_Test.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Desktop\\寒假1月份工作\\MetBench 2.0.1-alpha.1+flaui.202201161600\\MetBench_Client\\MetBench_Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Desktop\\寒假1月份工作\\MetBench 2.0.1-alpha.1+flaui.202201161600\\MetBench_Client\\MetBench_Client.csproj",
+        "projectName": "MetBench_Client",
+        "projectPath": "D:\\Desktop\\寒假1月份工作\\MetBench 2.0.1-alpha.1+flaui.202201161600\\MetBench_Client\\MetBench_Client.csproj",
+        "packagesPath": "C:\\Users\\zj\\.nuget\\packages\\",
+        "outputPath": "D:\\Desktop\\寒假1月份工作\\MetBench 2.0.1-alpha.1+flaui.202201161600\\MetBench_Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\zj\\.nuget\\packages": {},
+          "C:\\Users\\zj\\.nuget\\packages\\prism.wpf": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "D:\\Desktop\\寒假1月份工作\\MetBench 2.0.1-alpha.1+flaui.202201161600\\MetBench_BLL\\MetBench_BLL.csproj": {
+                "projectPath": "D:\\Desktop\\寒假1月份工作\\MetBench 2.0.1-alpha.1+flaui.202201161600\\MetBench_BLL\\MetBench_BLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.7.1, )"
+            },
+            "LiteDB": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Prism.Wpf": {
+              "target": "Package",
+              "version": "[8.1.97, )"
+            },
+            "PropertyChanged.Fody": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Stylet.Start": {
+              "target": "Package",
+              "version": "[1.3.6, )"
+            },
+            "WPF-UI": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Desktop\\寒假1月份工作\\MetBench 2.0.1-alpha.1+flaui.202201161600\\MetBench_DAL\\MetBench_DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Desktop\\寒假1月份工作\\MetBench 2.0.1-alpha.1+flaui.202201161600\\MetBench_DAL\\MetBench_DAL.csproj",
+        "projectName": "MetBench_DAL",
+        "projectPath": "D:\\Desktop\\寒假1月份工作\\MetBench 2.0.1-alpha.1+flaui.202201161600\\MetBench_DAL\\MetBench_DAL.csproj",
+        "packagesPath": "C:\\Users\\zj\\.nuget\\packages\\",
+        "outputPath": "D:\\Desktop\\寒假1月份工作\\MetBench 2.0.1-alpha.1+flaui.202201161600\\MetBench_DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\zj\\.nuget\\packages": {},
+          "C:\\Users\\zj\\.nuget\\packages\\prism.wpf": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Desktop\\寒假1月份工作\\MetBench 2.0.1-alpha.1+flaui.202201161600\\MetBench_Domain\\MetBench_Domain.csproj": {
+                "projectPath": "D:\\Desktop\\寒假1月份工作\\MetBench 2.0.1-alpha.1+flaui.202201161600\\MetBench_Domain\\MetBench_Domain.csproj"
+              },
+              "D:\\Desktop\\寒假1月份工作\\MetBench 2.0.1-alpha.1+flaui.202201161600\\MetBench_IDAL\\MetBench_IDAL.csproj": {
+                "projectPath": "D:\\Desktop\\寒假1月份工作\\MetBench 2.0.1-alpha.1+flaui.202201161600\\MetBench_IDAL\\MetBench_IDAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "LiteDB": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Desktop\\寒假1月份工作\\MetBench 2.0.1-alpha.1+flaui.202201161600\\MetBench_Domain\\MetBench_Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Desktop\\寒假1月份工作\\MetBench 2.0.1-alpha.1+flaui.202201161600\\MetBench_Domain\\MetBench_Domain.csproj",
+        "projectName": "MetBench_Domain",
+        "projectPath": "D:\\Desktop\\寒假1月份工作\\MetBench 2.0.1-alpha.1+flaui.202201161600\\MetBench_Domain\\MetBench_Domain.csproj",
+        "packagesPath": "C:\\Users\\zj\\.nuget\\packages\\",
+        "outputPath": "D:\\Desktop\\寒假1月份工作\\MetBench 2.0.1-alpha.1+flaui.202201161600\\MetBench_Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\zj\\.nuget\\packages": {},
+          "C:\\Users\\zj\\.nuget\\packages\\prism.wpf": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "LiteDB": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Desktop\\寒假1月份工作\\MetBench 2.0.1-alpha.1+flaui.202201161600\\MetBench_IDAL\\MetBench_IDAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Desktop\\寒假1月份工作\\MetBench 2.0.1-alpha.1+flaui.202201161600\\MetBench_IDAL\\MetBench_IDAL.csproj",
+        "projectName": "MetBench_IDAL",
+        "projectPath": "D:\\Desktop\\寒假1月份工作\\MetBench 2.0.1-alpha.1+flaui.202201161600\\MetBench_IDAL\\MetBench_IDAL.csproj",
+        "packagesPath": "C:\\Users\\zj\\.nuget\\packages\\",
+        "outputPath": "D:\\Desktop\\寒假1月份工作\\MetBench 2.0.1-alpha.1+flaui.202201161600\\MetBench_IDAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\zj\\.nuget\\packages": {},
+          "C:\\Users\\zj\\.nuget\\packages\\prism.wpf": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Desktop\\寒假1月份工作\\MetBench 2.0.1-alpha.1+flaui.202201161600\\MetBench_Domain\\MetBench_Domain.csproj": {
+                "projectPath": "D:\\Desktop\\寒假1月份工作\\MetBench 2.0.1-alpha.1+flaui.202201161600\\MetBench_Domain\\MetBench_Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Desktop\\寒假1月份工作\\MetBench 2.0.1-alpha.1+flaui.202201161600\\MetBench_Test\\MetBench_Test.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Desktop\\寒假1月份工作\\MetBench 2.0.1-alpha.1+flaui.202201161600\\MetBench_Test\\MetBench_Test.csproj",
+        "projectName": "MetBench_Test",
+        "projectPath": "D:\\Desktop\\寒假1月份工作\\MetBench 2.0.1-alpha.1+flaui.202201161600\\MetBench_Test\\MetBench_Test.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}

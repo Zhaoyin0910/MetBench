@@ -1,0 +1,353 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\MetBech2\\MetBench(12.18.23.05)\\MetBench_Client\\MetBench_Client.csproj": {}
+  },
+  "projects": {
+    "F:\\MetBech2\\MetBench(12.18.23.05)\\MetBench_BLL\\MetBench_BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\MetBech2\\MetBench(12.18.23.05)\\MetBench_BLL\\MetBench_BLL.csproj",
+        "projectName": "MetBench_BLL",
+        "projectPath": "F:\\MetBech2\\MetBench(12.18.23.05)\\MetBench_BLL\\MetBench_BLL.csproj",
+        "packagesPath": "C:\\Users\\苏\\.nuget\\packages\\",
+        "outputPath": "F:\\MetBech2\\MetBench(12.18.23.05)\\MetBench_BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\苏\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\MetBech2\\MetBench(12.18.23.05)\\MetBench_DAL\\MetBench_DAL.csproj": {
+                "projectPath": "F:\\MetBech2\\MetBench(12.18.23.05)\\MetBench_DAL\\MetBench_DAL.csproj"
+              },
+              "F:\\MetBech2\\MetBench(12.18.23.05)\\MetBench_IDAL\\MetBench_IDAL.csproj": {
+                "projectPath": "F:\\MetBech2\\MetBench(12.18.23.05)\\MetBench_IDAL\\MetBench_IDAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\MetBech2\\MetBench(12.18.23.05)\\MetBench_Client\\MetBench_Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\MetBech2\\MetBench(12.18.23.05)\\MetBench_Client\\MetBench_Client.csproj",
+        "projectName": "MetBench_Client",
+        "projectPath": "F:\\MetBech2\\MetBench(12.18.23.05)\\MetBench_Client\\MetBench_Client.csproj",
+        "packagesPath": "C:\\Users\\苏\\.nuget\\packages\\",
+        "outputPath": "F:\\MetBech2\\MetBench(12.18.23.05)\\MetBench_Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\苏\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "F:\\MetBech2\\MetBench(12.18.23.05)\\MetBench_BLL\\MetBench_BLL.csproj": {
+                "projectPath": "F:\\MetBech2\\MetBench(12.18.23.05)\\MetBench_BLL\\MetBench_BLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.7.1, )"
+            },
+            "LiteDB": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Prism.Wpf": {
+              "target": "Package",
+              "version": "[8.1.97, )"
+            },
+            "PropertyChanged.Fody": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Stylet.Start": {
+              "target": "Package",
+              "version": "[1.3.6, )"
+            },
+            "WPF-UI": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\MetBech2\\MetBench(12.18.23.05)\\MetBench_DAL\\MetBench_DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\MetBech2\\MetBench(12.18.23.05)\\MetBench_DAL\\MetBench_DAL.csproj",
+        "projectName": "MetBench_DAL",
+        "projectPath": "F:\\MetBech2\\MetBench(12.18.23.05)\\MetBench_DAL\\MetBench_DAL.csproj",
+        "packagesPath": "C:\\Users\\苏\\.nuget\\packages\\",
+        "outputPath": "F:\\MetBech2\\MetBench(12.18.23.05)\\MetBench_DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\苏\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\MetBech2\\MetBench(12.18.23.05)\\MetBench_Domain\\MetBench_Domain.csproj": {
+                "projectPath": "F:\\MetBech2\\MetBench(12.18.23.05)\\MetBench_Domain\\MetBench_Domain.csproj"
+              },
+              "F:\\MetBech2\\MetBench(12.18.23.05)\\MetBench_IDAL\\MetBench_IDAL.csproj": {
+                "projectPath": "F:\\MetBech2\\MetBench(12.18.23.05)\\MetBench_IDAL\\MetBench_IDAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "LiteDB": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\MetBech2\\MetBench(12.18.23.05)\\MetBench_Domain\\MetBench_Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\MetBech2\\MetBench(12.18.23.05)\\MetBench_Domain\\MetBench_Domain.csproj",
+        "projectName": "MetBench_Domain",
+        "projectPath": "F:\\MetBech2\\MetBench(12.18.23.05)\\MetBench_Domain\\MetBench_Domain.csproj",
+        "packagesPath": "C:\\Users\\苏\\.nuget\\packages\\",
+        "outputPath": "F:\\MetBech2\\MetBench(12.18.23.05)\\MetBench_Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\苏\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "LiteDB": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\MetBech2\\MetBench(12.18.23.05)\\MetBench_IDAL\\MetBench_IDAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\MetBech2\\MetBench(12.18.23.05)\\MetBench_IDAL\\MetBench_IDAL.csproj",
+        "projectName": "MetBench_IDAL",
+        "projectPath": "F:\\MetBech2\\MetBench(12.18.23.05)\\MetBench_IDAL\\MetBench_IDAL.csproj",
+        "packagesPath": "C:\\Users\\苏\\.nuget\\packages\\",
+        "outputPath": "F:\\MetBech2\\MetBench(12.18.23.05)\\MetBench_IDAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\苏\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\MetBech2\\MetBench(12.18.23.05)\\MetBench_Domain\\MetBench_Domain.csproj": {
+                "projectPath": "F:\\MetBech2\\MetBench(12.18.23.05)\\MetBench_Domain\\MetBench_Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

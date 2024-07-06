@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RykziCPpg5gN51z9BLrBMweq6CzYNhExUnKHAyIL+uS5iYDSvIsf/vrdP/lvjWQGP43fvCQKWGWCYKfuxArxLw==",
+  "success": true,
+  "projectFilePath": "F:\\MetBench测试后版本\\MetBench 2.0.4(IntelligentRecommendation)\\MetBench_Domain\\MetBench_Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\苏\\.nuget\\packages\\litedb\\5.0.16\\litedb.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

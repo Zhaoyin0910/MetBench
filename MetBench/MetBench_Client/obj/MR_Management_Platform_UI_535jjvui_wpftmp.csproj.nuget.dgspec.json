@@ -1,0 +1,309 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\StyletCode\\MR\\MR\\MR_Management_Platform_UI.csproj": {}
+  },
+  "projects": {
+    "E:\\StyletCode\\MR\\MR\\MR_Management_Platform_UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\StyletCode\\MR\\MR\\MR_Management_Platform_UI.csproj",
+        "projectName": "MR_Management_Platform_UI",
+        "projectPath": "E:\\StyletCode\\MR\\MR\\MR_Management_Platform_UI.csproj",
+        "packagesPath": "C:\\Users\\苏\\.nuget\\packages\\",
+        "outputPath": "E:\\StyletCode\\MR\\MR\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\苏\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "E:\\StyletCode\\MR\\MR_Management_Platform_ LiteDbRepository\\MR_Management_Platform_ LiteDbRepository.csproj": {
+                "projectPath": "E:\\StyletCode\\MR\\MR_Management_Platform_ LiteDbRepository\\MR_Management_Platform_ LiteDbRepository.csproj"
+              },
+              "E:\\StyletCode\\MR\\MR_Management_Platform_Domain\\MR_Management_Platform_Domain.csproj": {
+                "projectPath": "E:\\StyletCode\\MR\\MR_Management_Platform_Domain\\MR_Management_Platform_Domain.csproj"
+              },
+              "E:\\StyletCode\\MR\\MR_Management_Platform_SqlServerRepository\\MR_Management_Platform_SqlServerRepository.csproj": {
+                "projectPath": "E:\\StyletCode\\MR\\MR_Management_Platform_SqlServerRepository\\MR_Management_Platform_SqlServerRepository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "LiteDB": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "PropertyChanged.Fody": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "WPF-UI": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\StyletCode\\MR\\MR_Management_Platform_ LiteDbRepository\\MR_Management_Platform_ LiteDbRepository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\StyletCode\\MR\\MR_Management_Platform_ LiteDbRepository\\MR_Management_Platform_ LiteDbRepository.csproj",
+        "projectName": "MR_Management_Platform_ LiteDbRepository",
+        "projectPath": "E:\\StyletCode\\MR\\MR_Management_Platform_ LiteDbRepository\\MR_Management_Platform_ LiteDbRepository.csproj",
+        "packagesPath": "C:\\Users\\苏\\.nuget\\packages\\",
+        "outputPath": "E:\\StyletCode\\MR\\MR_Management_Platform_ LiteDbRepository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\苏\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\StyletCode\\MR\\MR_Management_Platform_Domain\\MR_Management_Platform_Domain.csproj": {
+                "projectPath": "E:\\StyletCode\\MR\\MR_Management_Platform_Domain\\MR_Management_Platform_Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "LiteDB": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\StyletCode\\MR\\MR_Management_Platform_Domain\\MR_Management_Platform_Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\StyletCode\\MR\\MR_Management_Platform_Domain\\MR_Management_Platform_Domain.csproj",
+        "projectName": "MR_Management_Platform_Domain",
+        "projectPath": "E:\\StyletCode\\MR\\MR_Management_Platform_Domain\\MR_Management_Platform_Domain.csproj",
+        "packagesPath": "C:\\Users\\苏\\.nuget\\packages\\",
+        "outputPath": "E:\\StyletCode\\MR\\MR_Management_Platform_Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\苏\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "LiteDB": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\StyletCode\\MR\\MR_Management_Platform_SqlServerRepository\\MR_Management_Platform_SqlServerRepository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\StyletCode\\MR\\MR_Management_Platform_SqlServerRepository\\MR_Management_Platform_SqlServerRepository.csproj",
+        "projectName": "MR_Management_Platform_SqlServerRepository",
+        "projectPath": "E:\\StyletCode\\MR\\MR_Management_Platform_SqlServerRepository\\MR_Management_Platform_SqlServerRepository.csproj",
+        "packagesPath": "C:\\Users\\苏\\.nuget\\packages\\",
+        "outputPath": "E:\\StyletCode\\MR\\MR_Management_Platform_SqlServerRepository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\苏\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\StyletCode\\MR\\MR_Management_Platform_Domain\\MR_Management_Platform_Domain.csproj": {
+                "projectPath": "E:\\StyletCode\\MR\\MR_Management_Platform_Domain\\MR_Management_Platform_Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

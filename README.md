@@ -1,4 +1,4 @@
-# MetBench-- Numerical Expression Metamorphic Relations Repository
+# MetBench-- A Numerical Expression Metamorphic Relations Benchmark Dataset
 
 ## 1. System Introduction:
 The storage management system for numerical expression-based metamorphic relations is a comprehensive tool that integrates metamorphic relation management, automated execution and visualization, and intelligent recommendation of metamorphic relations.

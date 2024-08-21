@@ -4,7 +4,7 @@
 The storage management system for numerical expression metamorphic relations is a comprehensive tool that integrates metamorphic relation management, automated execution and visualization.
 
 ## 2. Function Introduction:
-There are three main functional modules, which are metamorphic relation management, automated execution and visualization, and intelligent recommendation of metamorphic relations. Users can query, add, delete, and modify metamorphic relation operations, as well as add, delete, and modify application programs and domain information, making it convenient for users to manage. Additionally, the system has the ability to automate the execution of metamorphic testing and visualize output data, and utilizes a deep learning model for detecting code similarity to provide intelligent recommendations of metamorphic relations.
+There are three main functional modules, which are metamorphic relation management, automated execution and visualization, and intelligent recommendation of metamorphic relations. Users can query, add, delete, and modify metamorphic relation operations, as well as add, delete, and modify application programs and domain information, making it convenient for users to manage. Additionally, the system has the ability to automate the execution of metamorphic testing and visualize output data.
 
 ## 3. Software Environment Requirements:
 - Microsoft Visual Studio 2022

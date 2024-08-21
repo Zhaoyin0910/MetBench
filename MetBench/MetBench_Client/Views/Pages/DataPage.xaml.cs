@@ -1,4 +1,4 @@
-﻿using Wpf.Ui.Common.Interfaces;
+﻿using Wpf.Ui.Controls;
 
 namespace MetBench_Client.Views.Pages
 {
@@ -15,7 +15,8 @@ namespace MetBench_Client.Views.Pages
         public DataPage(ViewModels.DataViewModel viewModel)
         {
             ViewModel = viewModel;
-
+            //数据上下文初始化赋值
+            DataContext = this;
             InitializeComponent();
         }
     }

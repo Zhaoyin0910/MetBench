@@ -54,8 +54,7 @@ namespace MetBench_BLL
                 ProcessStartInfo startInfo = new ProcessStartInfo();
                 /*   startInfo.FileName = "python";*/// 指定Python解释器的路径（如果在环境变量中已配置，则可直接使用"python"）
                 startInfo.FileName = pythonInPath + "\\python.exe";
-
-                // 构建Arguments属性
+                //构建Arguments属性
                 startInfo.Arguments = $"{escapedPath}\\MetBench_Python\\AutoRunBinaryMR.py " +
                                       $"\"{r_list}\" " +
                                       $"\"{R_list}\" " +
@@ -64,12 +63,12 @@ namespace MetBench_BLL
                                       $"\"{MR_Output_dimension}\" " +
                                       $"\"{random_data_min_value}\" " +
                                       $"\"{random_data_max_value}\" " +
-                                      $"\"{random_data_count}\" "+
+                                      $"\"{random_data_count}\" " +
                                       $"\"{threshold}\" ";
 
                 // 设置进程启动信息的一些属性
                 startInfo.UseShellExecute = false; // 不使用操作系统shell启动进程
-                startInfo.CreateNoWindow = true; // 不创建窗口
+                startInfo.CreateNoWindow = false; // 不创建窗口
                 startInfo.RedirectStandardOutput = true; // 重定向输出流，以便从Python脚本中获取结果
                 // 将启动信息应用到进程对象
                 process.StartInfo = startInfo;

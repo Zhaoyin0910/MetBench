@@ -8,7 +8,7 @@ using static System.Net.Mime.MediaTypeNames;
 
 namespace MetBench_Domain
 {   //蜕变关系类
-    public class MetamorphicRelation : IEquatable<MetamorphicRelation>
+    public class MetamorphicRelation 
     {
         [BsonId]
         public int IdMR { get; set; }//非空字段
@@ -19,6 +19,7 @@ namespace MetBench_Domain
         public RtType RepresentationType { get; set; }//非空字段
         public string InputPattern { get; set; }//非空字段 r
         public string OutputPattern { get; set; }//非空字段 R
+
         #region
         //Latex转sympy格式
         public string InputPatterntosympy { get; set; }//非空字段
@@ -31,11 +32,8 @@ namespace MetBench_Domain
 
         public string DimensionOfInputPattern { get; set; }//非空字段
         public string DimensionOfOutputPattern { get; set; } //非空字段
-        //Application的Name
+
+        //Application的Name 作为外键
         public string ApplicationName { get; set; } = String.Empty; //Litedb不存储空字符串  AppllicationName之间用:隔开
-        public bool Equals(MetamorphicRelation mr)
-        {
-            return IdMR == mr.IdMR;
-        }
     }
 }

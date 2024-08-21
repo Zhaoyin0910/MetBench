@@ -2,7 +2,8 @@
 using CommunityToolkit.Mvvm.Input;
 using System;
 using System.Windows.Input;
-using Wpf.Ui.Common.Interfaces;
+using Wpf.Ui.Controls;
+using Wpf.Ui.Appearance;
 
 namespace MetBench_Client.ViewModels
 {
@@ -11,32 +12,37 @@ namespace MetBench_Client.ViewModels
         private bool _isInitialized = false;
 
         [ObservableProperty]
-        private string _appVersion = String.Empty;
+        private string _appVersion = "1.0.0.0";
 
         [ObservableProperty]
-        private Wpf.Ui.Appearance.ThemeType _currentTheme = Wpf.Ui.Appearance.ThemeType.Unknown;
+        private Wpf.Ui.Appearance.ApplicationTheme _currentApplicationTheme = Wpf.Ui
+            .Appearance
+            .ApplicationTheme
+            .Unknown;
 
+        //public String AppVersion { get; set; } = "1.0.0.0";
         public void OnNavigatedTo()
         {
             if (!_isInitialized)
+            {
                 InitializeViewModel();
+            }
         }
 
-        public void OnNavigatedFrom()
-        {
-        }
+        public void OnNavigatedFrom() { }
 
         private void InitializeViewModel()
         {
-            CurrentTheme = Wpf.Ui.Appearance.Theme.GetAppTheme();
-            AppVersion = $"MR - {GetAssemblyVersion()}";
+            CurrentApplicationTheme = Wpf.Ui.Appearance.ApplicationThemeManager.GetAppTheme();
+            AppVersion = $"Numerical Expression Metamorphic Relations Repository - {GetAssemblyVersion()}";
 
             _isInitialized = true;
         }
 
-        private string GetAssemblyVersion()
+        private static string GetAssemblyVersion()
         {
-            return System.Reflection.Assembly.GetExecutingAssembly().GetName().Version?.ToString() ?? String.Empty;
+            return System.Reflection.Assembly.GetExecutingAssembly().GetName().Version?.ToString()
+                ?? string.Empty;
         }
 
         [RelayCommand]
@@ -44,23 +50,82 @@ namespace MetBench_Client.ViewModels
         {
             switch (parameter)
             {
-                case "theme_dark":
-                    if (CurrentTheme == Wpf.Ui.Appearance.ThemeType.Dark)
+                case "theme_light":
+                    if (CurrentApplicationTheme == Wpf.Ui.Appearance.ApplicationTheme.Light)
+                    {
                         break;
+                    }
 
-                    Wpf.Ui.Appearance.Theme.Apply(Wpf.Ui.Appearance.ThemeType.Dark);
-                    CurrentTheme = Wpf.Ui.Appearance.ThemeType.Dark;
+                    Wpf.Ui.Appearance.ApplicationThemeManager.Apply(Wpf.Ui.Appearance.ApplicationTheme.Light);
+                    CurrentApplicationTheme = Wpf.Ui.Appearance.ApplicationTheme.Light;
 
                     break;
-                default:
-                    if (CurrentTheme == Wpf.Ui.Appearance.ThemeType.Light)
-                        break;
 
-                    Wpf.Ui.Appearance.Theme.Apply(Wpf.Ui.Appearance.ThemeType.Light);
-                    CurrentTheme = Wpf.Ui.Appearance.ThemeType.Light;
+                default:
+                    if (CurrentApplicationTheme == Wpf.Ui.Appearance.ApplicationTheme.Dark)
+                    {
+                        break;
+                    }
+
+                    Wpf.Ui.Appearance.ApplicationThemeManager.Apply(Wpf.Ui.Appearance.ApplicationTheme.Dark);
+                    CurrentApplicationTheme = Wpf.Ui.Appearance.ApplicationTheme.Dark;
 
                     break;
             }
         }
+        //private bool _isInitialized = false;
+
+        //[ObservableProperty]
+        //private string _appVersion = String.Empty;
+
+        //[ObservableProperty]
+        //private Wpf.Ui.Appearance.ThemeType _currentTheme = Wpf.Ui.Appearance.ThemeType.Unknown;
+
+        //public void OnNavigatedTo()
+        //{
+        //    if (!_isInitialized)
+        //        InitializeViewModel();
+        //}
+
+        //public void OnNavigatedFrom()
+        //{
+        //}
+
+        //private void InitializeViewModel()
+        //{
+        //    CurrentTheme = Wpf.Ui.Appearance.Theme.GetAppTheme();
+        //    AppVersion = $"MR - {GetAssemblyVersion()}";
+
+        //    _isInitialized = true;
+        //}
+
+        //private string GetAssemblyVersion()
+        //{
+        //    return System.Reflection.Assembly.GetExecutingAssembly().GetName().Version?.ToString() ?? String.Empty;
+        //}
+
+        //[RelayCommand]
+        //private void OnChangeTheme(string parameter)
+        //{
+        //    switch (parameter)
+        //    {
+        //        case "theme_dark":
+        //            if (CurrentTheme == Wpf.Ui.Appearance.ThemeType.Dark)
+        //                break;
+
+        //            Wpf.Ui.Appearance.Theme.Apply(Wpf.Ui.Appearance.ThemeType.Dark);
+        //            CurrentTheme = Wpf.Ui.Appearance.ThemeType.Dark;
+
+        //            break;
+        //        default:
+        //            if (CurrentTheme == Wpf.Ui.Appearance.ThemeType.Light)
+        //                break;
+
+        //            Wpf.Ui.Appearance.Theme.Apply(Wpf.Ui.Appearance.ThemeType.Light);
+        //            CurrentTheme = Wpf.Ui.Appearance.ThemeType.Light;
+
+        //            break;
+        //    }
+        //}
     }
 }

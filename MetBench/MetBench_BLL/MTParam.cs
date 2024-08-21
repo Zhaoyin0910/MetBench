@@ -1,5 +1,6 @@
 ﻿namespace MetBench_BLL
 {
+    //执行蜕变测试所需的参数类
     public class MTParam
     {
         //输入模式的Latex格式

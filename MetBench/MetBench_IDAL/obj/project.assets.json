@@ -2,25 +2,9 @@
   "version": 3,
   "targets": {
     "net6.0": {
-      "LiteDB/5.0.16": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard2.0/LiteDB.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard2.0/LiteDB.dll": {
-            "related": ".xml"
-          }
-        }
-      },
       "MetBench_Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "LiteDB": "5.0.16"
-        },
         "compile": {
           "bin/placeholder/MetBench_Domain.dll": {}
         },
@@ -31,25 +15,6 @@
     }
   },
   "libraries": {
-    "LiteDB/5.0.16": {
-      "sha512": "DMUYdRlgNbrSlyWzdQ4GqW934ntNHBGWMTNQlOL4hWz8WnveY6V9ZGo2ntPrSATW7kat8v5VoCXGSzToPiwZWw==",
-      "type": "package",
-      "path": "litedb/5.0.16",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "LICENSE",
-        "icon_64x64.png",
-        "lib/net45/LiteDB.dll",
-        "lib/net45/LiteDB.xml",
-        "lib/netstandard1.3/LiteDB.dll",
-        "lib/netstandard1.3/LiteDB.xml",
-        "lib/netstandard2.0/LiteDB.dll",
-        "lib/netstandard2.0/LiteDB.xml",
-        "litedb.5.0.16.nupkg.sha512",
-        "litedb.nuspec"
-      ]
-    },
     "MetBench_Domain/1.0.0": {
       "type": "project",
       "path": "../MetBench_Domain/MetBench_Domain.csproj",
@@ -62,19 +27,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\苏\\.nuget\\packages\\": {}
+    "C:\\Users\\lucifer\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\MetBench测试后版本\\MetBench 2.0.4(IntelligentRecommendation)\\MetBench_IDAL\\MetBench_IDAL.csproj",
+      "projectUniqueName": "D:\\2024\\MetBench-V2.1.4_2（已录完）\\MetBench-V2.1.4_2\\MetBench_IDAL\\MetBench_IDAL.csproj",
       "projectName": "MetBench_IDAL",
-      "projectPath": "F:\\MetBench测试后版本\\MetBench 2.0.4(IntelligentRecommendation)\\MetBench_IDAL\\MetBench_IDAL.csproj",
-      "packagesPath": "C:\\Users\\苏\\.nuget\\packages\\",
-      "outputPath": "F:\\MetBench测试后版本\\MetBench 2.0.4(IntelligentRecommendation)\\MetBench_IDAL\\obj\\",
+      "projectPath": "D:\\2024\\MetBench-V2.1.4_2（已录完）\\MetBench-V2.1.4_2\\MetBench_IDAL\\MetBench_IDAL.csproj",
+      "packagesPath": "C:\\Users\\lucifer\\.nuget\\packages\\",
+      "outputPath": "D:\\2024\\MetBench-V2.1.4_2（已录完）\\MetBench-V2.1.4_2\\MetBench_IDAL\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\苏\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lucifer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -88,8 +58,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "F:\\MetBench测试后版本\\MetBench 2.0.4(IntelligentRecommendation)\\MetBench_Domain\\MetBench_Domain.csproj": {
-              "projectPath": "F:\\MetBench测试后版本\\MetBench 2.0.4(IntelligentRecommendation)\\MetBench_Domain\\MetBench_Domain.csproj"
+            "D:\\2024\\MetBench-V2.1.4_2（已录完）\\MetBench-V2.1.4_2\\MetBench_Domain\\MetBench_Domain.csproj": {
+              "projectPath": "D:\\2024\\MetBench-V2.1.4_2（已录完）\\MetBench-V2.1.4_2\\MetBench_Domain\\MetBench_Domain.csproj"
             }
           }
         }
@@ -109,17 +79,11 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
       }
     }
   }

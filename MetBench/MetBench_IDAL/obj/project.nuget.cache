@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XO4v3yqepFVujicxgUfwep/AVGDylg7yHumDkSq6+pZDx1xodR2ZjmR05B5UuDm/pSe3Kx8QPt4Xa+CrXhtiUA==",
+  "dgSpecHash": "BGNS1qoD30HNcWzVHBiWbDJdtjbP1pAxZmKBOunUpEuzrJ6+212SpCwYrSZyJtf7acxrsRtGOkwz1AGwT+SlLQ==",
   "success": true,
-  "projectFilePath": "F:\\MetBench测试后版本\\MetBench 2.0.4(IntelligentRecommendation)\\MetBench_IDAL\\MetBench_IDAL.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\苏\\.nuget\\packages\\litedb\\5.0.16\\litedb.5.0.16.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\2024\\MetBench-V2.1.4_2（已录完）\\MetBench-V2.1.4_2\\MetBench_IDAL\\MetBench_IDAL.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

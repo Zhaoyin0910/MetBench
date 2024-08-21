@@ -7,27 +7,30 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="Views\Pages\AddMRPage.xaml.cs">
+    <Compile Update="Views\Pages\ApplicationManagementPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Views\Pages\AutoMRPage.xaml.cs">
+    <Compile Update="Views\Pages\DomainManagementPage.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Views\Pages\DisplayMRPage.xaml.cs">
+    <Compile Update="Views\Pages\MRDisplayPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Views\Pages\EditApplicationPage.xaml.cs">
+    <Compile Update="Views\Pages\MRManagementPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Views\Pages\EditDomainsPage.xaml.cs">
+    <Compile Update="Views\Pages\MTExecutionPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Windows\ProgressWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Page Update="Views\Pages\AddMRPage.xaml">
+    <Page Update="Dictionary1.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="Views\Pages\AutoMRPage.xaml">
+    <Page Update="Views\Pages\ApplicationManagementPage.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Views\Pages\DashboardPage.xaml">
@@ -36,22 +39,25 @@
     <Page Update="Views\Pages\DataPage.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="Views\Pages\DisplayMRPage.xaml">
+    <Page Update="Views\Pages\DomainManagementPage.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="Views\Pages\EditApplicationPage.xaml">
+    <Page Update="Views\Pages\MRDisplayPage.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="Views\Pages\EditDomainsPage.xaml">
+    <Page Update="Views\Pages\MRManagementPage.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="Views\Pages\MRIntelligentRecommendationsPage.xaml">
+    <Page Update="Views\Pages\MTExecutionPage.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Views\Pages\SettingsPage.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Views\Windows\MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Windows\ProgressWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

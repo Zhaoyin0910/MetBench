@@ -5466,207 +5466,921 @@ D:\Desktop\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows
 D:\Desktop\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.pdb
 D:\Desktop\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.genruntimeconfig.cache
 D:\Desktop\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\ref\MetBench_Client.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.AssemblyReference.cache
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\App.baml
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\AddMRPage.g.cs
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\AutoMRPage.g.cs
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DashboardPage.g.cs
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DataPage.g.cs
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DisplayMRPage.g.cs
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\EditApplicationPage.g.cs
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\EditDomainsPage.g.cs
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\MRIntelligentRecommendationsPage.g.cs
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\SettingsPage.g.cs
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\Views\Windows\MainWindow.g.cs
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\App.g.cs
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client_Content.g.cs
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client_MarkupCompile.cache
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client_MarkupCompile.lref
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\refint\MetBench_Client.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.pdb
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.TestPlatform.AdapterUtilities.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.exe
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.dll.config
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.deps.json
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.runtimeconfig.json
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.pdb
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\FluentValidation.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\LiteDB.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Prism.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Prism.Wpf.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Stylet.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Wpf.Ui.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_BLL.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_DAL.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Domain.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_IDAL.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Test.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\FlaUI.Core.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\FlaUI.UIA3.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Interop.UIAutomationClient.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_BLL.pdb
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_DAL.pdb
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Domain.pdb
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_IDAL.pdb
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Test.pdb
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\FlaUI.Core.xml
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\FlaUI.UIA3.xml
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\AddMRPage.baml
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\AutoMRPage.baml
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DashboardPage.baml
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DataPage.baml
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DisplayMRPage.baml
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\EditApplicationPage.baml
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\EditDomainsPage.baml
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\MRIntelligentRecommendationsPage.baml
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\SettingsPage.baml
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\Views\Windows\MainWindow.baml
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.g.resources
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.GeneratedMSBuildEditorConfig.editorconfig
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.AssemblyInfoInputs.cache
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.AssemblyInfo.cs
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.CoreCompileInputs.cache
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.Fody.CopyLocal.cache
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.Fody.RuntimeCopyLocal.cache
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.CopyComplete
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.genruntimeconfig.cache
-F:\MetBench测试后版本\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\ref\MetBench_Client.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.AssemblyReference.cache
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\obj\Debug\net6.0-windows\App.baml
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\AddMRPage.g.cs
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\AutoMRPage.g.cs
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DashboardPage.g.cs
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DataPage.g.cs
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DisplayMRPage.g.cs
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\EditApplicationPage.g.cs
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\EditDomainsPage.g.cs
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\MRIntelligentRecommendationsPage.g.cs
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\SettingsPage.g.cs
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\obj\Debug\net6.0-windows\Views\Windows\MainWindow.g.cs
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\obj\Debug\net6.0-windows\App.g.cs
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client_Content.g.cs
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client_MarkupCompile.cache
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client_MarkupCompile.lref
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\obj\Debug\net6.0-windows\refint\MetBench_Client.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.pdb
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.TestPlatform.AdapterUtilities.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.exe
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.dll.config
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.deps.json
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.runtimeconfig.json
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.pdb
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\FluentValidation.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\LiteDB.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\Prism.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\Prism.Wpf.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\Stylet.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\Wpf.Ui.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_BLL.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_DAL.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Domain.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_IDAL.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Test.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\FlaUI.Core.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\FlaUI.UIA3.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\Interop.UIAutomationClient.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_BLL.pdb
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_DAL.pdb
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Domain.pdb
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_IDAL.pdb
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Test.pdb
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\FlaUI.Core.xml
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\FlaUI.UIA3.xml
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\AddMRPage.baml
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\AutoMRPage.baml
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DashboardPage.baml
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DataPage.baml
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DisplayMRPage.baml
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\EditApplicationPage.baml
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\EditDomainsPage.baml
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\MRIntelligentRecommendationsPage.baml
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\SettingsPage.baml
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\obj\Debug\net6.0-windows\Views\Windows\MainWindow.baml
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.g.resources
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.GeneratedMSBuildEditorConfig.editorconfig
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.AssemblyInfoInputs.cache
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.AssemblyInfo.cs
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.CoreCompileInputs.cache
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.Fody.CopyLocal.cache
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.Fody.RuntimeCopyLocal.cache
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.CopyComplete
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.genruntimeconfig.cache
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\obj\Debug\net6.0-windows\ref\MetBench_Client.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.exe
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.dll.config
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.deps.json
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.runtimeconfig.json
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.pdb
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\FluentValidation.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\LiteDB.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Prism.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Prism.Wpf.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Stylet.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Wpf.Ui.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_BLL.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_DAL.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Domain.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_IDAL.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Test.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\FlaUI.Core.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\FlaUI.UIA3.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Interop.UIAutomationClient.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_BLL.pdb
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_DAL.pdb
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Domain.pdb
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_IDAL.pdb
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Test.pdb
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\FlaUI.Core.xml
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\FlaUI.UIA3.xml
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.AssemblyReference.cache
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\App.baml
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\AddMRPage.g.cs
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\AutoMRPage.g.cs
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DashboardPage.g.cs
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DataPage.g.cs
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DisplayMRPage.g.cs
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\EditApplicationPage.g.cs
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\EditDomainsPage.g.cs
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\SettingsPage.g.cs
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\Views\Windows\MainWindow.g.cs
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\App.g.cs
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client_Content.g.cs
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client_MarkupCompile.cache
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client_MarkupCompile.lref
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\AddMRPage.baml
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\AutoMRPage.baml
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DashboardPage.baml
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DataPage.baml
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DisplayMRPage.baml
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\EditApplicationPage.baml
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\EditDomainsPage.baml
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\SettingsPage.baml
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\Views\Windows\MainWindow.baml
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.g.resources
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.AssemblyInfoInputs.cache
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.AssemblyInfo.cs
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.CoreCompileInputs.cache
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.Fody.CopyLocal.cache
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.Fody.RuntimeCopyLocal.cache
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.CopyComplete
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\refint\MetBench_Client.dll
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.pdb
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.genruntimeconfig.cache
+D:\大三上\实验室\MR\MetBench 2.0.4(202401201157)\MetBench_Client\obj\Debug\net6.0-windows\ref\MetBench_Client.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.exe
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.dll.config
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.deps.json
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.runtimeconfig.json
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.pdb
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\FluentValidation.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\LiteDB.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\Prism.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\Prism.Wpf.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\Stylet.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\Wpf.Ui.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_BLL.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_DAL.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Domain.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_IDAL.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Test.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\FlaUI.Core.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\FlaUI.UIA3.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\Interop.UIAutomationClient.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_BLL.pdb
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_DAL.pdb
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Domain.pdb
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_IDAL.pdb
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Test.pdb
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\FlaUI.Core.xml
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\FlaUI.UIA3.xml
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.AssemblyReference.cache
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\obj\Debug\net6.0-windows\App.baml
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\AddMRPage.g.cs
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\AutoMRPage.g.cs
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DashboardPage.g.cs
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DataPage.g.cs
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DisplayMRPage.g.cs
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\EditApplicationPage.g.cs
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\EditDomainsPage.g.cs
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\SettingsPage.g.cs
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\obj\Debug\net6.0-windows\Views\Windows\MainWindow.g.cs
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\obj\Debug\net6.0-windows\App.g.cs
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client_Content.g.cs
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client_MarkupCompile.cache
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client_MarkupCompile.lref
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\AddMRPage.baml
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\AutoMRPage.baml
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DashboardPage.baml
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DataPage.baml
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DisplayMRPage.baml
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\EditApplicationPage.baml
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\EditDomainsPage.baml
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\SettingsPage.baml
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\obj\Debug\net6.0-windows\Views\Windows\MainWindow.baml
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.g.resources
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.AssemblyInfoInputs.cache
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.AssemblyInfo.cs
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.CoreCompileInputs.cache
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.Fody.CopyLocal.cache
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.Fody.RuntimeCopyLocal.cache
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.CopyComplete
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\obj\Debug\net6.0-windows\refint\MetBench_Client.dll
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.pdb
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.genruntimeconfig.cache
+D:\SoftTests\寒假1月份工作\MetBench 2.0.4(202401252336)\MetBench_Client\obj\Debug\net6.0-windows\ref\MetBench_Client.dll
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.exe
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.dll.config
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.deps.json
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.runtimeconfig.json
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.dll
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.pdb
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\FluentValidation.dll
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\LiteDB.dll
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Prism.dll
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Prism.Wpf.dll
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Stylet.dll
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Wpf.Ui.dll
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_BLL.dll
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_DAL.dll
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Domain.dll
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_IDAL.dll
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_BLL.pdb
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_DAL.pdb
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Domain.pdb
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_IDAL.pdb
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.AssemblyReference.cache
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\App.baml
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\AddMRPage.g.cs
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\AutoMRPage.g.cs
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DashboardPage.g.cs
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DataPage.g.cs
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DisplayMRPage.g.cs
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\EditApplicationPage.g.cs
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\EditDomainsPage.g.cs
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\SettingsPage.g.cs
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Windows\MainWindow.g.cs
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\App.g.cs
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client_Content.g.cs
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client_MarkupCompile.cache
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client_MarkupCompile.lref
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\AddMRPage.baml
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\AutoMRPage.baml
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DashboardPage.baml
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DataPage.baml
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DisplayMRPage.baml
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\EditApplicationPage.baml
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\EditDomainsPage.baml
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\SettingsPage.baml
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Windows\MainWindow.baml
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.g.resources
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.AssemblyInfoInputs.cache
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.AssemblyInfo.cs
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.CoreCompileInputs.cache
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.Fody.CopyLocal.cache
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.Fody.RuntimeCopyLocal.cache
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.CopyComplete
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.dll
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\refint\MetBench_Client.dll
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.pdb
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.genruntimeconfig.cache
+D:\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\ref\MetBench_Client.dll
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.AssemblyReference.cache
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\App.baml
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\AddMRPage.g.cs
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\AutoMRPage.g.cs
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DashboardPage.g.cs
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DataPage.g.cs
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DisplayMRPage.g.cs
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\EditApplicationPage.g.cs
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\EditDomainsPage.g.cs
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\SettingsPage.g.cs
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Windows\MainWindow.g.cs
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\App.g.cs
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client_Content.g.cs
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client_MarkupCompile.cache
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client_MarkupCompile.lref
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.exe
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.dll.config
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.deps.json
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.runtimeconfig.json
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.dll
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.pdb
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\FluentValidation.dll
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\LiteDB.dll
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Prism.dll
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Prism.Wpf.dll
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Stylet.dll
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Wpf.Ui.dll
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_BLL.dll
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_DAL.dll
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Domain.dll
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_IDAL.dll
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_BLL.pdb
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_DAL.pdb
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Domain.pdb
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_IDAL.pdb
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\AddMRPage.baml
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\AutoMRPage.baml
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DashboardPage.baml
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DataPage.baml
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DisplayMRPage.baml
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\EditApplicationPage.baml
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\EditDomainsPage.baml
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\SettingsPage.baml
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Windows\MainWindow.baml
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.g.resources
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.AssemblyInfoInputs.cache
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.AssemblyInfo.cs
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.CoreCompileInputs.cache
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.Fody.CopyLocal.cache
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.Fody.RuntimeCopyLocal.cache
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\MetBench.94CD8D93.Up2Date
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.dll
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\refint\MetBench_Client.dll
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.pdb
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.genruntimeconfig.cache
+D:\MetBench项目\MR相关材料\MetBench系统\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\ref\MetBench_Client.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.exe
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.dll.config
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.deps.json
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.runtimeconfig.json
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.pdb
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\FluentValidation.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\LiteDB.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Prism.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Prism.Wpf.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Stylet.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\Wpf.Ui.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_BLL.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_DAL.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Domain.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_IDAL.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_BLL.pdb
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_DAL.pdb
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Domain.pdb
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_IDAL.pdb
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.AssemblyReference.cache
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\App.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\AddMRPage.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\AutoMRPage.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DashboardPage.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DataPage.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DisplayMRPage.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\EditApplicationPage.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\EditDomainsPage.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\SettingsPage.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Windows\MainWindow.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\App.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client_Content.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client_MarkupCompile.cache
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client_MarkupCompile.lref
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\AddMRPage.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\AutoMRPage.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DashboardPage.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DataPage.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DisplayMRPage.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\EditApplicationPage.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\EditDomainsPage.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\SettingsPage.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\Views\Windows\MainWindow.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.g.resources
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.AssemblyInfoInputs.cache
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.AssemblyInfo.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.CoreCompileInputs.cache
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.Fody.CopyLocal.cache
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.Fody.RuntimeCopyLocal.cache
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\MetBench.94CD8D93.Up2Date
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\refint\MetBench_Client.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.pdb
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.genruntimeconfig.cache
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.2\MetBench_Client\obj\Debug\net6.0-windows\ref\MetBench_Client.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.exe
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.dll.config
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.deps.json
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.runtimeconfig.json
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.pdb
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\FluentValidation.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\LiteDB.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\Prism.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\Prism.Wpf.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\Stylet.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\Wpf.Ui.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\MetBench_BLL.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\MetBench_DAL.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Domain.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\MetBench_IDAL.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\MetBench_BLL.pdb
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\MetBench_DAL.pdb
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Domain.pdb
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\bin\Debug\net6.0-windows\MetBench_IDAL.pdb
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.AssemblyReference.cache
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\obj\Debug\net6.0-windows\App.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\AddMRPage.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\AutoMRPage.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DashboardPage.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DataPage.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DisplayMRPage.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\EditApplicationPage.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\EditDomainsPage.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\SettingsPage.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\obj\Debug\net6.0-windows\Views\Windows\MainWindow.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\obj\Debug\net6.0-windows\App.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client_Content.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client_MarkupCompile.cache
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client_MarkupCompile.lref
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\AddMRPage.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\AutoMRPage.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DashboardPage.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DataPage.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DisplayMRPage.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\EditApplicationPage.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\EditDomainsPage.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\SettingsPage.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\obj\Debug\net6.0-windows\Views\Windows\MainWindow.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.g.resources
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.AssemblyInfoInputs.cache
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.AssemblyInfo.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.CoreCompileInputs.cache
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.Fody.CopyLocal.cache
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.Fody.RuntimeCopyLocal.cache
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\obj\Debug\net6.0-windows\MetBench.94CD8D93.Up2Date
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\obj\Debug\net6.0-windows\refint\MetBench_Client.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.pdb
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.genruntimeconfig.cache
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.3\MetBench_Client\obj\Debug\net6.0-windows\ref\MetBench_Client.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.AssemblyReference.cache
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\ApplicationManagementPage.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DashboardPage.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DataPage.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DomainManagementPage.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\MRDisplayPage.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\MRManagementPage.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\MTExecutionPage.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\SettingsPage.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\obj\Debug\net6.0-windows\Views\Windows\MainWindow.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\obj\Debug\net6.0-windows\App.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client_Content.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client_MarkupCompile.cache
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client_MarkupCompile.lref
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DashboardPage.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DomainManagementPage.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\MRDisplayPage.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\MTExecutionPage.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\obj\Debug\net6.0-windows\Views\Windows\MainWindow.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.exe
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.dll.config
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.deps.json
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.runtimeconfig.json
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.pdb
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\FluentValidation.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\LiteDB.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\Prism.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\Prism.Wpf.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\Stylet.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\Wpf.Ui.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\Wpf.Ui.Tray.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\MetBench_BLL.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\MetBench_DAL.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Domain.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\MetBench_IDAL.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\MetBench_BLL.pdb
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\MetBench_DAL.pdb
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Domain.pdb
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\bin\Debug\net6.0-windows\MetBench_IDAL.pdb
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\obj\Debug\net6.0-windows\App.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\ApplicationManagementPage.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DataPage.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\MRManagementPage.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\SettingsPage.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.g.resources
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.AssemblyInfoInputs.cache
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.AssemblyInfo.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.CoreCompileInputs.cache
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.Fody.CopyLocal.cache
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.Fody.RuntimeCopyLocal.cache
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\obj\Debug\net6.0-windows\MetBench.94CD8D93.Up2Date
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\obj\Debug\net6.0-windows\refint\MetBench_Client.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.pdb
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.genruntimeconfig.cache
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\obj\Debug\net6.0-windows\ref\MetBench_Client.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\obj\Debug\net6.0-windows\Views\Windows\ProgressWindow.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Client\obj\Debug\net6.0-windows\Views\Windows\ProgressWindow.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.exe
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.dll.config
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.deps.json
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.runtimeconfig.json
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.pdb
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\FluentValidation.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\HandyControl.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\LiteDB.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\Prism.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\Prism.Wpf.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\Stylet.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\Wpf.Ui.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\Wpf.Ui.Tray.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\MetBench_BLL.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\MetBench_DAL.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Domain.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\MetBench_IDAL.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\MetBench_BLL.pdb
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\MetBench_IDAL.pdb
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\MetBench_DAL.pdb
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Domain.pdb
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.AssemblyReference.cache
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\obj\Debug\net6.0-windows\Dictionary1.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\ApplicationManagementPage.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DashboardPage.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DataPage.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DomainManagementPage.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\MRDisplayPage.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\MRManagementPage.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\MTExecutionPage.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\SettingsPage.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\obj\Debug\net6.0-windows\Views\Windows\MainWindow.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\obj\Debug\net6.0-windows\Views\Windows\ProgressWindow.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\obj\Debug\net6.0-windows\App.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client_Content.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client_MarkupCompile.cache
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client_MarkupCompile.lref
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\obj\Debug\net6.0-windows\App.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\ApplicationManagementPage.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DashboardPage.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DataPage.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DomainManagementPage.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\MRDisplayPage.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\MRManagementPage.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\MTExecutionPage.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\SettingsPage.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\obj\Debug\net6.0-windows\Views\Windows\MainWindow.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\obj\Debug\net6.0-windows\Views\Windows\ProgressWindow.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.g.resources
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.AssemblyInfoInputs.cache
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.AssemblyInfo.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.CoreCompileInputs.cache
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.Fody.CopyLocal.cache
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.Fody.RuntimeCopyLocal.cache
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\obj\Debug\net6.0-windows\MetBench.94CD8D93.Up2Date
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\obj\Debug\net6.0-windows\refint\MetBench_Client.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.pdb
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.genruntimeconfig.cache
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_1\MetBench_Client\obj\Debug\net6.0-windows\ref\MetBench_Client.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.AssemblyReference.cache
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\Dictionary1.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\ApplicationManagementPage.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DashboardPage.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DataPage.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DomainManagementPage.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\MRDisplayPage.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\MRManagementPage.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\MTExecutionPage.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\SettingsPage.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\Views\Windows\MainWindow.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\Views\Windows\ProgressWindow.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\App.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client_Content.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client_MarkupCompile.cache
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client_MarkupCompile.lref
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\refint\MetBench_Client.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.pdb
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.exe
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.dll.config
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.deps.json
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.runtimeconfig.json
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.pdb
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\FluentValidation.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\HandyControl.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\LiteDB.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Prism.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Prism.Wpf.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Stylet.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Wpf.Ui.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Wpf.Ui.Tray.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_BLL.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_DAL.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Domain.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_IDAL.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_BLL.pdb
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_IDAL.pdb
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_DAL.pdb
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Domain.pdb
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\App.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\ApplicationManagementPage.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DashboardPage.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DataPage.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DomainManagementPage.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\MRDisplayPage.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\MRManagementPage.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\MTExecutionPage.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\SettingsPage.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\Views\Windows\MainWindow.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\Views\Windows\ProgressWindow.baml
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.g.resources
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.AssemblyInfoInputs.cache
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.AssemblyInfo.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.CoreCompileInputs.cache
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.Fody.CopyLocal.cache
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.Fody.RuntimeCopyLocal.cache
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\MetBench.94CD8D93.Up2Date
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.genruntimeconfig.cache
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\ref\MetBench_Client.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.exe
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.dll.config
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.deps.json
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.runtimeconfig.json
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Client.pdb
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\FluentValidation.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\HandyControl.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\LiteDB.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Prism.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Prism.Wpf.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Stylet.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Wpf.Ui.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\Wpf.Ui.Tray.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_BLL.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_DAL.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Domain.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_IDAL.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_BLL.pdb
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_IDAL.pdb
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_DAL.pdb
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\bin\Debug\net6.0-windows\MetBench_Domain.pdb
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.AssemblyReference.cache
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\Dictionary1.baml
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\ApplicationManagementPage.g.cs
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DashboardPage.g.cs
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DataPage.g.cs
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DomainManagementPage.g.cs
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\MRDisplayPage.g.cs
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\MRManagementPage.g.cs
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\MTExecutionPage.g.cs
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\SettingsPage.g.cs
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\Views\Windows\MainWindow.g.cs
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\Views\Windows\ProgressWindow.g.cs
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\App.g.cs
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client_Content.g.cs
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client_MarkupCompile.cache
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client_MarkupCompile.lref
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\App.baml
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\ApplicationManagementPage.baml
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DashboardPage.baml
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DataPage.baml
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\DomainManagementPage.baml
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\MRDisplayPage.baml
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\MRManagementPage.baml
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\MTExecutionPage.baml
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\Views\Pages\SettingsPage.baml
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\Views\Windows\MainWindow.baml
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\Views\Windows\ProgressWindow.baml
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.g.resources
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.AssemblyInfoInputs.cache
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.AssemblyInfo.cs
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.CoreCompileInputs.cache
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.Fody.CopyLocal.cache
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.Fody.RuntimeCopyLocal.cache
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.csproj.CopyComplete
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\refint\MetBench_Client.dll
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.pdb
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\MetBench_Client.genruntimeconfig.cache
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\ref\MetBench_Client.dll

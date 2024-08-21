@@ -9,10 +9,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Controls;
-using Wpf.Ui.Controls.Interfaces;
+
 
 namespace MetBench_Client.Services
 {
+    //已弃用
     public class TransParamsService
     {
         //整个Windows桌面程序的主窗体

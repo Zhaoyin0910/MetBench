@@ -1,11 +1,13 @@
 ﻿using System;
 using System.Windows;
-using Wpf.Ui.Mvvm.Contracts;
+using Wpf.Ui;
+
 
 namespace MetBench_Client.Services
 {
     /// <summary>
     /// Service that provides pages for navigation.
+    /// 获取页面实例并在WPF应用程序中进行显示
     /// </summary>
     public class PageService : IPageService
     {

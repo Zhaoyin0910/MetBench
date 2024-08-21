@@ -4,7 +4,7 @@ using System.Collections.ObjectModel;
 namespace MetBench_Domain
 {
     //Application
-    public class Application : IEquatable<Application>
+    public class Application 
     {
         [BsonId]
         public int IdApplication { get; set; } 
@@ -22,14 +22,14 @@ namespace MetBench_Domain
         public string SourceTestCaseName { get; set; }
         public string DOI { get; set; }
         public string Url { get; set; }
-        ////MetamorphicRelation的ID
-        public string MetamorphicRelationId { get; set; }=String.Empty;//当MetamorphicRelationId为空字符串时，Litedb不会进行存储  MRId之间用:隔开
-        //Domain的Name
-        public string DomainName { get; set; } = String.Empty; // DomainName之间用:隔开
-        //
-        public bool Equals(Application application)
-        {
-            return IdApplication == application.IdApplication;
-        }
+
+        //暂时取消
+        ////MetamorphicRelation的ID 作为外键
+        //public string MetamorphicRelationId { get; set; }=String.Empty;//当MetamorphicRelationId为空字符串时，Litedb不会进行存储  MRId之间用:隔开
+        
+        //Domain的Name 作为外键
+        public string DomainName { get; set; } = String.Empty; // DomainName之间以:为分隔符
+        
+
     }
 }

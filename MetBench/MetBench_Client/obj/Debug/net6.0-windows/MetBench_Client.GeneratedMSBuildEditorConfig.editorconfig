@@ -9,6 +9,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MetBench_Client
-build_property.ProjectDir = F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.ProjectDir = D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\

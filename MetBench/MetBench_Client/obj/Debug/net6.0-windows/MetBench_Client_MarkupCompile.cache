@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\obj\Debug\net6.0-windows\
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\obj\Debug\net6.0-windows\
 MetBench_Client
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-F:\MetBench测试后版本\MetBench 2.0.4(IntelligentRecommendation)\MetBench_Client\App.xaml
-10-707723493
+D:\文档和照片\软件测试协会（活动和干活）\2024年暑假\MetBench-V2.1.4_2\MetBench_Client\App.xaml
+11-704591911
 1882702876
-341518872044
-234-1518309549
-Views\Pages\AddMRPage.xaml;Views\Pages\AutoMRPage.xaml;Views\Pages\DashboardPage.xaml;Views\Pages\DataPage.xaml;Views\Pages\DisplayMRPage.xaml;Views\Pages\EditApplicationPage.xaml;Views\Pages\EditDomainsPage.xaml;Views\Pages\MRIntelligentRecommendationsPage.xaml;Views\Pages\SettingsPage.xaml;Views\Windows\MainWindow.xaml;
+451533762549
+235-1505960281
+Dictionary1.xaml;Views\Pages\ApplicationManagementPage.xaml;Views\Pages\DashboardPage.xaml;Views\Pages\DataPage.xaml;Views\Pages\DomainManagementPage.xaml;Views\Pages\MRDisplayPage.xaml;Views\Pages\MRManagementPage.xaml;Views\Pages\MTExecutionPage.xaml;Views\Pages\SettingsPage.xaml;Views\Windows\MainWindow.xaml;Views\Windows\ProgressWindow.xaml;
 
 False
 

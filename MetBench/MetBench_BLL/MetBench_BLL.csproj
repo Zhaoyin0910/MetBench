@@ -4,12 +4,12 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <Platforms>AnyCPU;x86;x64</Platforms>
   </PropertyGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\MetBench_DAL\MetBench_DAL.csproj" />
     <ProjectReference Include="..\MetBench_IDAL\MetBench_IDAL.csproj" />
-    <ProjectReference Include="..\MetBench_Test\MetBench_Test.csproj" />
   </ItemGroup>
 
 </Project>

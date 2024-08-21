@@ -5,7 +5,7 @@ import random
 import re
 import numpy as np
 from matplotlib import pyplot as plt
-from math import pi
+from math import pi,sqrt
 from datetime import datetime  # 获取当前时间戳
 from twodimJavaInterpreter import *
 from typing import List, Union
@@ -46,6 +46,7 @@ def generate_random_data(
         for _ in range(random_data_count)
     ]
 
+# 从指定的文件路径中获取待测函数的代码，可以动态地加载指定路径的.py文件，并创建一个可以直接调用这些函数的模块对象。生成的模块对象可以在测试中使用，以确保函数的正确性。
 # 从本地获取待测函数文件并生成相应模块 参数含义：模块名称name，文件路径path
 def generate_module(name, path):
     # 基于给定的名称和文件路径创建一个模块规范对象
@@ -60,6 +61,7 @@ def generate_module(name, path):
     # 返回生成的模块对象
     return function_module
 
+# 根据指定的文件路径，动态生成模块对象并获取其中第一个函数的参数信息，返回函数名、参数类型等信息
 def generate_function(module_path):
     # 根据文件路径获取文件名
     file_name = os.path.basename(module_path)
@@ -86,7 +88,7 @@ def generate_function(module_path):
 
     return module_name, function, param_types
 
-# 生成x的变量字典 参数含义：随机生成的一行数据row
+# 生成x的变量字典，变量名及其对应值 参数含义：随机生成的一行数据row
 def generate_variable_assignments_for_x(row,MR_Input_dimension):
     variable_names = [f"x_{group + 1}{index + 1}" for group in range(MR_Input_dimension) for index in range(len(row))]
     variable_assignments = dict(zip(variable_names, row))
@@ -215,6 +217,7 @@ def convert_type(value, target_type):
     else:
         return value
 
+# # JAVA接入点
 def calculate_value_from_function_java(group, function_name, result_array, y_results,MR_Input_dimension, MR_output_dimension):
     for i, data in enumerate(group, start=1):
         # print(data)
@@ -286,14 +289,15 @@ def plot_graph(module_name, Y1_sorted, Y2_sorted, actual, R):
     # Y2_sorted = [round(y, 6) for y in Y2_sorted]  # 将 Y2_sorted 中的元素保留小数点后六位
     # actual = [round(a, 6) for a in actual]  # 将 actual 中的元素保留小数点后六位
 
-    plt.plot(Y1_sorted, Y2_sorted, 'o-', label='(Y1, Y2)')  # 绘制以 Y1_sorted 为 x 坐标，Y2_sorted 为 y 坐标的散点图线
+    # plt.plot(Y1_sorted, Y2_sorted, 'o-', label='(Y1, Y2)')  # 绘制以 Y1_sorted 为 x 坐标，Y2_sorted 为 y 坐标的散点图线
+    plt.scatter(Y1_sorted, Y2_sorted, marker='x', color='red', s=100, label='(Y1, Y2)')
 
     plt.xlabel('Y1')  # 设置 x 轴标签为 'Y1'
     plt.ylabel('Y2')  # 设置 y 轴标签为 'Y2'
 
     # 绘制第二条图线：根据输出关系 R 得出的值
-    plt.plot(Y1_sorted, actual, label=f'R: {R}')  # 绘制以 Y1_sorted 为 x 坐标，actual 为 y 坐标的折线图线，并在图例中显示 R 的值
-
+    # plt.plot(Y1_sorted, actual, label=f'R: {R}')  # 绘制以 Y1_sorted 为 x 坐标，actual 为 y 坐标的折线图线，并在图例中显示 R 的值
+    plt.scatter(Y1_sorted, actual, label=f'R: {R}')
     plt.legend()  # 显示图例
     # plt.show(block=False)  # 显示图形窗口，但不阻塞程序的执行
     # plt.pause(1)  # 暂停 1 秒，使图形窗口保持显示状态
@@ -386,6 +390,79 @@ def calculate(module_path, r, R, random_count, MR_Input_dimension, MR_output_dim
         # print("\n")
 
     return result_array, actual, module_name, true_count, false_count
+
+# def calculate(module_path, r, R, random_count, MR_Input_dimension, MR_output_dimension, random_data_min_value,
+#               random_data_max_value, threshold):
+#     true_count = 0
+#     false_count = 0
+#
+#     filename = module_path
+#     print("filename="+filename)
+#
+#     # 判断文件类型，并生成相应的函数信息
+#     if filename.endswith(".py"):
+#         module_name, function, parameter_types_eval = generate_function(module_path)
+#     elif filename.endswith(".java"):
+#         method_name, x_count, param_types, parameter_types_eval = get_java_method_name(module_path)
+#
+#     result_array = []  # 存储计算结果的列表
+#     y_results = {}  # 存储中间计算结果的字典
+#     actual = []  # 存储根据 R 计算得出的实际值的列表
+#
+#     # 生成随机数据
+#     random_x = generate_random_data(random_count, random_data_min_value,
+#                                     random_data_max_value, parameter_types_eval)
+#
+#     print("生成随机数据random_x",random_x)
+#
+#     for i, row in enumerate(random_x, 1):
+#         # 为输入变量生成分配值
+#         variable_assignments = generate_variable_assignments_for_x(row, MR_Input_dimension)
+#         print("为输入变量生成分配值variable_assignments",variable_assignments)
+#
+#         # 根据 r 计算 x 的结果
+#         x_result, variable_assignments = calculate_x_from_r(r, variable_assignments)
+#         print("根据 r 计算 x 的结果x_result",x_result,variable_assignments)
+#
+#         # 将变量分配转换为列表
+#         group = transform_dict_to_list(variable_assignments)
+#         print("将变量分配转换为列表group",group)
+#
+#         # 获取文件的前缀路径和扩展名
+#         front_path, file_extension = os.path.splitext(module_path)
+#
+#         # 获取文件名
+#         filename = os.path.basename(front_path)
+#
+#         # 提取模块名
+#         module_name = os.path.splitext(filename)[0]
+#
+#         # 根据文件类型调用相应的函数来计算 y 值
+#         if file_extension == '.py':
+#             module_name, function, param_types = generate_function(module_path)
+#             result_array, y_results = calculate_value_from_function_python(group, function, result_array, y_results,
+#                                                                            MR_output_dimension, param_types)
+#         elif file_extension == '.java':
+#             result_array, y_results = calculate_value_from_function_java(group, filename, result_array, y_results,
+#                                                                          MR_Input_dimension, MR_output_dimension)
+#
+#         # 从表达式 R 中提取变量
+#         variable_to_cal = re.findall(r'[xy]_\d+', R)
+#         print("从表达式 R 中提取变量variable_to_cal",variable_to_cal)
+#
+#         print("y_results",y_results)
+#
+#         # 根据表达式 R 计算 y 的值
+#         y_from_R = calculate_value_from_expression(R, y_results)
+#         print("根据表达式 R 计算 y 的值y_from_R",y_from_R)
+#         actual.append(y_from_R)
+#
+#         # 确定是否通过，并更新计数
+#         true_count, false_count = determine_pass_ornot(y_from_R, y_results, variable_to_cal, threshold, true_count,
+#                                                        false_count)
+#         print("确定是否通过，并更新计数true_count, false_count分别为",true_count, false_count)
+#
+#     return result_array, actual, module_name, true_count, false_count
 
 # 二元多维函数的蜕变关系测试 参数含义：输入关系r，输出关系R，待测函数文件名File_name，待测函数输入维度MR_input_dimension，输出维度MR_output_dimension，
 # 生成的随机值的最小值random_data_min_value，最大值random_data_max_value，随机次数random_data_count
@@ -480,7 +557,7 @@ if __name__ == "__main__":
 
     MR_Input_dimension = 1  # 待测函数输入维度
     MR_Output_dimension =1  # 待测函数输出维度
-    random_count = 10       # 随机次数
+    random_count = 100       # 随机次数
     random_data_min_value = -10  # 随机生成数据的最小值
     random_data_max_value = 10   # 随机生成数据的最大值
     threshold = 1e-4# 误差
@@ -488,7 +565,7 @@ if __name__ == "__main__":
     # File_name = "Sin.py"  # SUT
     # File_name = "sum_of_digits.py"  # SUT
     # ///////////////Java
-    File_name="Add1.java"
+    File_name="cos.java"
     # File_name="AddTwoNumbers.java"
 
 

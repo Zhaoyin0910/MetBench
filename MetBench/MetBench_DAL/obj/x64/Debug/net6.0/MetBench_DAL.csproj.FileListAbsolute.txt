@@ -1,0 +1,17 @@
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_DAL\bin\x64\Debug\net6.0\MetBench_DAL.deps.json
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_DAL\bin\x64\Debug\net6.0\MetBench_DAL.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_DAL\bin\x64\Debug\net6.0\MetBench_DAL.pdb
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_DAL\bin\x64\Debug\net6.0\MetBench_Domain.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_DAL\bin\x64\Debug\net6.0\MetBench_IDAL.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_DAL\bin\x64\Debug\net6.0\MetBench_Domain.pdb
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_DAL\bin\x64\Debug\net6.0\MetBench_IDAL.pdb
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_DAL\obj\x64\Debug\net6.0\MetBench_DAL.csproj.AssemblyReference.cache
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_DAL\obj\x64\Debug\net6.0\MetBench_DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_DAL\obj\x64\Debug\net6.0\MetBench_DAL.AssemblyInfoInputs.cache
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_DAL\obj\x64\Debug\net6.0\MetBench_DAL.AssemblyInfo.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_DAL\obj\x64\Debug\net6.0\MetBench_DAL.csproj.CoreCompileInputs.cache
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_DAL\obj\x64\Debug\net6.0\MetBench.986A4A7B.Up2Date
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_DAL\obj\x64\Debug\net6.0\MetBench_DAL.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_DAL\obj\x64\Debug\net6.0\refint\MetBench_DAL.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_DAL\obj\x64\Debug\net6.0\MetBench_DAL.pdb
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_DAL\obj\x64\Debug\net6.0\ref\MetBench_DAL.dll

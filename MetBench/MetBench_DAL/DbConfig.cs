@@ -10,9 +10,13 @@ namespace MetBench_DAL
     {
         //对象集合的名称
         //key of  collection
+        //蜕变关系集合的键
         public readonly string MetamorphicRelations_Collection_Key = "MetamorphicRelations";
+        //应用程序集合的键
         public readonly string Applications_Collection_Key = "Applications";
+        //应用领域集合的键
         public readonly string Domains_Collection_Key = "Domains";
+
         /// <summary>
         /// 连接字符串
         /// database connection string
@@ -46,6 +50,7 @@ namespace MetBench_DAL
 
                     solutionDirPath = parentDirPath;
                 }
+
                 var db_file = ConfigurationManager.ConnectionStrings["litedb"].ConnectionString;
                 //string appName = Assembly.GetEntryAssembly().GetName().Name;//获取应用程序名称
                 string appPath = $"{solutionDirPath}\\MetBench_DataBase";//获取应用程序的路径
@@ -53,8 +58,12 @@ namespace MetBench_DAL
                 return conn;
             }
         }
+
         //DbConfig实例
          private static DbConfig instance;
+        //锁
+        private static readonly object _lock = new object();    
+
         //使用单例模式 完成实体映射数据表
         private DbConfig()
         {
@@ -70,6 +79,7 @@ namespace MetBench_DAL
                     mapper.Entity<MetamorphicRelation>()
                    .Id(x => x.IdMR);
                 }
+
                 if (!db.CollectionExists(Applications_Collection_Key))
                 {
                     //配置Applications
@@ -77,6 +87,7 @@ namespace MetBench_DAL
                     .Id(x => x.IdApplication)
                     .Field(x => x.DomainName, "DomainName"); // 映射属性到字段;
                 }
+
                 if (!db.CollectionExists(Domains_Collection_Key))
                 {
                     //配置Domains
@@ -85,13 +96,31 @@ namespace MetBench_DAL
                 }
             }
         }
-        public static DbConfig GetInstance() 
+
+        //不加锁
+        //public static DbConfig GetInstance() 
+        //{
+        //    if (instance == null) 
+        //    {
+        //        instance = new DbConfig();
+        //    }
+        //    return instance;
+        //}
+
+       //加锁
+        public static DbConfig Instance
         {
-            if (instance == null) 
+            get
             {
-                instance = new DbConfig();
+                lock (_lock)
+                {
+                    if (instance == null)
+                    {
+                        instance = new DbConfig();
+                    }
+                    return instance;
+                }
             }
-            return instance;
         }
     }
 }

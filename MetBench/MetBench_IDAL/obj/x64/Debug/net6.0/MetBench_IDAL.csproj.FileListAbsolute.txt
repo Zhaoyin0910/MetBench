@@ -1,0 +1,15 @@
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_IDAL\bin\x64\Debug\net6.0\MetBench_IDAL.deps.json
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_IDAL\bin\x64\Debug\net6.0\MetBench_IDAL.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_IDAL\bin\x64\Debug\net6.0\MetBench_IDAL.pdb
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_IDAL\bin\x64\Debug\net6.0\MetBench_Domain.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_IDAL\bin\x64\Debug\net6.0\MetBench_Domain.pdb
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_IDAL\obj\x64\Debug\net6.0\MetBench_IDAL.csproj.AssemblyReference.cache
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_IDAL\obj\x64\Debug\net6.0\MetBench_IDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_IDAL\obj\x64\Debug\net6.0\MetBench_IDAL.AssemblyInfoInputs.cache
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_IDAL\obj\x64\Debug\net6.0\MetBench_IDAL.AssemblyInfo.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_IDAL\obj\x64\Debug\net6.0\MetBench_IDAL.csproj.CoreCompileInputs.cache
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_IDAL\obj\x64\Debug\net6.0\MetBench.55661761.Up2Date
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_IDAL\obj\x64\Debug\net6.0\MetBench_IDAL.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_IDAL\obj\x64\Debug\net6.0\refint\MetBench_IDAL.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_IDAL\obj\x64\Debug\net6.0\MetBench_IDAL.pdb
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_IDAL\obj\x64\Debug\net6.0\ref\MetBench_IDAL.dll

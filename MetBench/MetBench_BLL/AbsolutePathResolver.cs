@@ -1,9 +1,9 @@
 ﻿using System.Reflection;
-using MetBench_Test;
 namespace MetBench_BLL
 {
     public class AbsolutePathResolver
     {
+        //用于获取解决方案 .sln文件的路径
         public string GetSolutionPath(Assembly assembly)
         {
             // 获取执行程序集的文件路径

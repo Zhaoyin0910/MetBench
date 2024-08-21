@@ -5,12 +5,12 @@ namespace MetBench_BLL
 {
     public class Latextosympy
     {
-        //解压文件的存储路径（默认系统的Temp路径）
+        // 解压文件的存储路径（默认系统的Temp路径）
         string SystemTemppath = Path.GetTempPath();
-        //存储路径下创建的存储文件夹名
+        // 存储路径下创建的存储文件夹名
         string folderunderpath = "temp_image";
 
-        //获取python的环境变量路径
+        // 获取python的环境变量路径
         public string FindFirstPythonInPath()
         {
             // 在 PATH 中查找包含 "Python" 的目录，你也可以查找其他关键字
@@ -22,7 +22,7 @@ namespace MetBench_BLL
             // 在每个目录中查找包含 "Python" 的子目录
             foreach (var directory in directories)
             {
-                if (directory.Contains("Python", StringComparison.OrdinalIgnoreCase))
+                if (directory.Contains("Python", StringComparison.OrdinalIgnoreCase))//StringComparison.OrdinalIgnoreCase 忽略大小写
                 {
                     pythonPath = directory;
                     break;
@@ -57,6 +57,7 @@ namespace MetBench_BLL
             {
                 // 设置进程启动信息
                 ProcessStartInfo startInfo = new ProcessStartInfo();
+                /*   startInfo.FileName = "python";*/// 指定Python解释器的路径（如果在环境变量中已配置，则可直接使用"python"）
                 startInfo.FileName = pythonInPath + "\\python.exe";
 
                 // 构建Arguments属性
@@ -91,7 +92,8 @@ namespace MetBench_BLL
                 process.Close();
             }
         }
-        //将latex渲染成图片，并返回图片路径
+
+        // 将latex渲染成图片，并返回图片路径
         public string LatextoImage(string latex)
         {
             Assembly assembly = Assembly.GetEntryAssembly();
@@ -107,6 +109,7 @@ namespace MetBench_BLL
             {
                 // 设置进程启动信息
                 ProcessStartInfo startInfo = new ProcessStartInfo();
+                /*   startInfo.FileName = "python";*/// 指定Python解释器的路径（如果在环境变量中已配置，则可直接使用"python"）
                 startInfo.FileName = pythonInPath + "\\python.exe";
 
 

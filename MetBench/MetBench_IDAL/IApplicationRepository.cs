@@ -18,5 +18,13 @@ namespace MetBench_IDAL
         /// </summary>
         /// <returns>查询结果</returns>
         ObservableCollection<Applications_QueryResultData> GetAll_MIX();
+
+        /// <summary>
+        /// 通过名称模糊查询
+        /// </summary>
+        /// <param name="Name"></param>
+        /// <returns>查询结果</returns>
+        ObservableCollection<Applications_QueryResultData> GetByName(string Name);
+
     }
 }

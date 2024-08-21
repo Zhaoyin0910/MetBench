@@ -1,6 +1,6 @@
 from multidimensional  import *
 import sys
-
+#测试
 # r_list = "Eq(x_{21}, 2*pi + x_{11})"
 # R_list = "Eq(y_{21}, y_{11})"
 # File_name = "sin.py"
@@ -10,6 +10,18 @@ import sys
 # random_data_max_value = 11  # 随机生成数据的最大值
 # random_count = 11  # 随机次数
 # threshold = 1e-4  # 误差
+
+# r_list = "Eq(x_{21}, x_{11} + 10), Eq(x_{22}, x_{12} + 10)"
+# R_list = "Eq(y_{21}, y_{11} + 10)"
+# File_name = "amax.py"
+# MR_Input_dimension = 2  # 待测函数输入维度
+# MR_Output_dimension = 1  # 待测函数输出维度
+# random_data_min_value = -10  # 随机生成数据的最小值
+# random_data_max_value = 10  # 随机生成数据的最大值
+# random_count = 100  # 随机次数
+# threshold = 1e-4  # 误差
+
+
 r_list = sys.argv[1]
 R_list = sys.argv[2]
 File_name = sys.argv[3]

@@ -1,21 +1,13 @@
 ﻿using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
-using Wpf.Ui.Common.Interfaces;
+using Wpf.Ui.Controls;
 
 namespace MetBench_Client.ViewModels
 {
-    public partial class DashboardViewModel : ObservableObject, INavigationAware
+    public partial class DashboardViewModel : ObservableObject
     {
         [ObservableProperty]
         private int _counter = 0;
-
-        public void OnNavigatedTo()
-        {
-        }
-
-        public void OnNavigatedFrom()
-        {
-        }
 
         [RelayCommand]
         private void OnCounterIncrement()

@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\MetBench测试后版本\\MetBench 2.0.4(IntelligentRecommendation)\\MetBench_DAL\\MetBench_DAL.csproj": {}
+    "D:\\2024\\MetBench-V2.1.4_2（已录完）\\MetBench-V2.1.4_2\\MetBench_DAL\\MetBench_DAL.csproj": {}
   },
   "projects": {
-    "F:\\MetBench测试后版本\\MetBench 2.0.4(IntelligentRecommendation)\\MetBench_DAL\\MetBench_DAL.csproj": {
+    "D:\\2024\\MetBench-V2.1.4_2（已录完）\\MetBench-V2.1.4_2\\MetBench_DAL\\MetBench_DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\MetBench测试后版本\\MetBench 2.0.4(IntelligentRecommendation)\\MetBench_DAL\\MetBench_DAL.csproj",
+        "projectUniqueName": "D:\\2024\\MetBench-V2.1.4_2（已录完）\\MetBench-V2.1.4_2\\MetBench_DAL\\MetBench_DAL.csproj",
         "projectName": "MetBench_DAL",
-        "projectPath": "F:\\MetBench测试后版本\\MetBench 2.0.4(IntelligentRecommendation)\\MetBench_DAL\\MetBench_DAL.csproj",
-        "packagesPath": "C:\\Users\\苏\\.nuget\\packages\\",
-        "outputPath": "F:\\MetBench测试后版本\\MetBench 2.0.4(IntelligentRecommendation)\\MetBench_DAL\\obj\\",
+        "projectPath": "D:\\2024\\MetBench-V2.1.4_2（已录完）\\MetBench-V2.1.4_2\\MetBench_DAL\\MetBench_DAL.csproj",
+        "packagesPath": "C:\\Users\\lucifer\\.nuget\\packages\\",
+        "outputPath": "D:\\2024\\MetBench-V2.1.4_2（已录完）\\MetBench-V2.1.4_2\\MetBench_DAL\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\苏\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lucifer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +32,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\MetBench测试后版本\\MetBench 2.0.4(IntelligentRecommendation)\\MetBench_Domain\\MetBench_Domain.csproj": {
-                "projectPath": "F:\\MetBench测试后版本\\MetBench 2.0.4(IntelligentRecommendation)\\MetBench_Domain\\MetBench_Domain.csproj"
+              "D:\\2024\\MetBench-V2.1.4_2（已录完）\\MetBench-V2.1.4_2\\MetBench_Domain\\MetBench_Domain.csproj": {
+                "projectPath": "D:\\2024\\MetBench-V2.1.4_2（已录完）\\MetBench-V2.1.4_2\\MetBench_Domain\\MetBench_Domain.csproj"
               },
-              "F:\\MetBench测试后版本\\MetBench 2.0.4(IntelligentRecommendation)\\MetBench_IDAL\\MetBench_IDAL.csproj": {
-                "projectPath": "F:\\MetBench测试后版本\\MetBench 2.0.4(IntelligentRecommendation)\\MetBench_IDAL\\MetBench_IDAL.csproj"
+              "D:\\2024\\MetBench-V2.1.4_2（已录完）\\MetBench-V2.1.4_2\\MetBench_IDAL\\MetBench_IDAL.csproj": {
+                "projectPath": "D:\\2024\\MetBench-V2.1.4_2（已录完）\\MetBench-V2.1.4_2\\MetBench_IDAL\\MetBench_IDAL.csproj"
               }
             }
           }
@@ -46,47 +50,35 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "LiteDB": {
-              "target": "Package",
-              "version": "[5.0.16, )"
-            },
-            "System.Configuration.ConfigurationManager": {
-              "target": "Package",
-              "version": "[4.7.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\MetBench测试后版本\\MetBench 2.0.4(IntelligentRecommendation)\\MetBench_Domain\\MetBench_Domain.csproj": {
+    "D:\\2024\\MetBench-V2.1.4_2（已录完）\\MetBench-V2.1.4_2\\MetBench_Domain\\MetBench_Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\MetBench测试后版本\\MetBench 2.0.4(IntelligentRecommendation)\\MetBench_Domain\\MetBench_Domain.csproj",
+        "projectUniqueName": "D:\\2024\\MetBench-V2.1.4_2（已录完）\\MetBench-V2.1.4_2\\MetBench_Domain\\MetBench_Domain.csproj",
         "projectName": "MetBench_Domain",
-        "projectPath": "F:\\MetBench测试后版本\\MetBench 2.0.4(IntelligentRecommendation)\\MetBench_Domain\\MetBench_Domain.csproj",
-        "packagesPath": "C:\\Users\\苏\\.nuget\\packages\\",
-        "outputPath": "F:\\MetBench测试后版本\\MetBench 2.0.4(IntelligentRecommendation)\\MetBench_Domain\\obj\\",
+        "projectPath": "D:\\2024\\MetBench-V2.1.4_2（已录完）\\MetBench-V2.1.4_2\\MetBench_Domain\\MetBench_Domain.csproj",
+        "packagesPath": "C:\\Users\\lucifer\\.nuget\\packages\\",
+        "outputPath": "D:\\2024\\MetBench-V2.1.4_2（已录完）\\MetBench-V2.1.4_2\\MetBench_Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\苏\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lucifer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -111,43 +103,35 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "LiteDB": {
-              "target": "Package",
-              "version": "[5.0.16, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\MetBench测试后版本\\MetBench 2.0.4(IntelligentRecommendation)\\MetBench_IDAL\\MetBench_IDAL.csproj": {
+    "D:\\2024\\MetBench-V2.1.4_2（已录完）\\MetBench-V2.1.4_2\\MetBench_IDAL\\MetBench_IDAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\MetBench测试后版本\\MetBench 2.0.4(IntelligentRecommendation)\\MetBench_IDAL\\MetBench_IDAL.csproj",
+        "projectUniqueName": "D:\\2024\\MetBench-V2.1.4_2（已录完）\\MetBench-V2.1.4_2\\MetBench_IDAL\\MetBench_IDAL.csproj",
         "projectName": "MetBench_IDAL",
-        "projectPath": "F:\\MetBench测试后版本\\MetBench 2.0.4(IntelligentRecommendation)\\MetBench_IDAL\\MetBench_IDAL.csproj",
-        "packagesPath": "C:\\Users\\苏\\.nuget\\packages\\",
-        "outputPath": "F:\\MetBench测试后版本\\MetBench 2.0.4(IntelligentRecommendation)\\MetBench_IDAL\\obj\\",
+        "projectPath": "D:\\2024\\MetBench-V2.1.4_2（已录完）\\MetBench-V2.1.4_2\\MetBench_IDAL\\MetBench_IDAL.csproj",
+        "packagesPath": "C:\\Users\\lucifer\\.nuget\\packages\\",
+        "outputPath": "D:\\2024\\MetBench-V2.1.4_2（已录完）\\MetBench-V2.1.4_2\\MetBench_IDAL\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\苏\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lucifer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -161,8 +145,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\MetBench测试后版本\\MetBench 2.0.4(IntelligentRecommendation)\\MetBench_Domain\\MetBench_Domain.csproj": {
-                "projectPath": "F:\\MetBench测试后版本\\MetBench 2.0.4(IntelligentRecommendation)\\MetBench_Domain\\MetBench_Domain.csproj"
+              "D:\\2024\\MetBench-V2.1.4_2（已录完）\\MetBench-V2.1.4_2\\MetBench_Domain\\MetBench_Domain.csproj": {
+                "projectPath": "D:\\2024\\MetBench-V2.1.4_2（已录完）\\MetBench-V2.1.4_2\\MetBench_Domain\\MetBench_Domain.csproj"
               }
             }
           }
@@ -182,17 +166,11 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }

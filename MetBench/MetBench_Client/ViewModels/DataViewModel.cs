@@ -4,7 +4,7 @@ using MetBench_Client.Models;
 using System;
 using System.Collections.Generic;
 using System.Windows.Media;
-using Wpf.Ui.Common.Interfaces;
+using Wpf.Ui.Controls;
 
 namespace MetBench_Client.ViewModels
 {

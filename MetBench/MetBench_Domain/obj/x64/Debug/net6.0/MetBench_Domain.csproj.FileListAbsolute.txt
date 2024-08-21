@@ -1,0 +1,12 @@
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Domain\bin\x64\Debug\net6.0\MetBench_Domain.deps.json
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Domain\bin\x64\Debug\net6.0\MetBench_Domain.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Domain\bin\x64\Debug\net6.0\MetBench_Domain.pdb
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Domain\obj\x64\Debug\net6.0\MetBench_Domain.csproj.AssemblyReference.cache
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Domain\obj\x64\Debug\net6.0\MetBench_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Domain\obj\x64\Debug\net6.0\MetBench_Domain.AssemblyInfoInputs.cache
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Domain\obj\x64\Debug\net6.0\MetBench_Domain.AssemblyInfo.cs
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Domain\obj\x64\Debug\net6.0\MetBench_Domain.csproj.CoreCompileInputs.cache
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Domain\obj\x64\Debug\net6.0\MetBench_Domain.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Domain\obj\x64\Debug\net6.0\refint\MetBench_Domain.dll
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Domain\obj\x64\Debug\net6.0\MetBench_Domain.pdb
+D:\1_Project\C#_Project_100\MetBench_101\MetBench\MetBench\MetBench-V2.1.4\MetBench_Domain\obj\x64\Debug\net6.0\ref\MetBench_Domain.dll

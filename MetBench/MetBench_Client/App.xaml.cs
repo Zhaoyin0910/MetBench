@@ -9,8 +9,12 @@ using System.IO;
 using System.Reflection;
 using System.Windows;
 using System.Windows.Threading;
-using Wpf.Ui.Mvvm.Contracts;
-using Wpf.Ui.Mvvm.Services;
+using MetBench_DAL;
+using MetBench_IDAL;
+using MetBench_BLL;
+using Wpf.Ui.Controls;
+using Wpf.Ui;
+using Stylet;
 
 namespace MetBench_Client
 {
@@ -19,6 +23,7 @@ namespace MetBench_Client
     /// </summary>
     public partial class App
     {
+        //主机构建和配置部分
         // The.NET Generic Host provides dependency injection, configuration, logging, and other services.
         // https://docs.microsoft.com/dotnet/core/extensions/generic-host
         // https://docs.microsoft.com/dotnet/core/extensions/dependency-injection
@@ -28,11 +33,12 @@ namespace MetBench_Client
             .CreateDefaultBuilder()
             .ConfigureAppConfiguration(c => { c.SetBasePath(Path.GetDirectoryName(Assembly.GetEntryAssembly()!.Location)); })
             .ConfigureServices((context, services) =>
-            {
+            {  
+                //添加各种服务和页面
                 // App Host
                 services.AddHostedService<ApplicationHostService>();
 
-                // Page resolver service
+                // Page resolver service 注入服务提供程序
                 services.AddSingleton<IPageService, PageService>();
 
                 // Theme manipulation
@@ -55,26 +61,48 @@ namespace MetBench_Client
                 services.AddScoped<ViewModels.DataViewModel>();
                 services.AddScoped<Views.Pages.SettingsPage>();
                 services.AddScoped<ViewModels.SettingsViewModel>();
-                services.AddScoped<Views.Pages.DisplayMRPage>();
-                services.AddScoped<ViewModels.DisplayMRViewModel>();
-                services.AddScoped<Views.Pages.AddMRPage>();
-                services.AddScoped<ViewModels.AddMRViewModel>();
 
-                services.AddScoped<Views.Pages.EditApplicationPage>();
-                services.AddScoped<ViewModels.EditApplicationViewModel>();
-                services.AddScoped<Views.Pages.EditDomainsPage>();
-                services.AddScoped<ViewModels.EditDomainsViewModel>();
-                services.AddScoped<Views.Pages.AutoMRPage>();
-                services.AddScoped<ViewModels.AutoMRViewModel>();
-                services.AddScoped<Views.Pages.MRIntelligentRecommendationsPage>();
-                services.AddScoped<ViewModels.MRIntelligentRecommendationsViewModel>();
+                //services.AddScoped<Views.Pages.DisplayMRPage>();
+                //services.AddScoped<ViewModels.DisplayMRViewModel>();
+                //services.AddScoped<Views.Pages.AddMRPage>();
+                //services.AddScoped<ViewModels.AddMRViewModel>();
+                //services.AddScoped<Views.Pages.EditApplicationPage>();
+                //services.AddScoped<ViewModels.EditApplicationViewModel>();
+                //services.AddScoped<Views.Pages.EditDomainsPage>();
+                //services.AddScoped<ViewModels.EditDomainsViewModel>();
+                //services.AddScoped<Views.Pages.AutoMRPage>();
+                //services.AddScoped<ViewModels.AutoMRViewModel>();
+
+                services.AddScoped<Views.Pages.MRDisplayPage>();
+                services.AddScoped<ViewModels.MRDisplayViewModel>();
+                services.AddScoped<Views.Pages.MRManagementPage>();
+                services.AddScoped<ViewModels.MRManagementViewModel>();
+                services.AddScoped<Views.Pages.ApplicationManagementPage>();
+                services.AddScoped<ViewModels.ApplicationManagementViewModel>();
+                services.AddScoped<Views.Pages.DomainManagementPage>();
+                services.AddScoped<ViewModels.DomainManagementViewModel>();
+                services.AddScoped<Views.Pages.MTExecutionPage>();
+                services.AddScoped<ViewModels.MTExecutionViewModel>();
 
                 // Configuration
                 services.Configure<AppConfig>(context.Configuration.GetSection(nameof(AppConfig)));
+
+                //注册数据仓库
+                services.AddSingleton<IApplicationRepository, ApplicationRepository>();
+                services.AddSingleton<IMetamorphicRelationRepository, MetamorphicRelationRepository>();
+                services.AddSingleton<IDomainRepository, DomainRepository>();
+                //注册业务类
+                services.AddScoped<MetamorphicRelationSerive>();
+                services.AddScoped<ApplicationSerive>();
+                services.AddScoped<DomainSerive>();
+                // 注册 IEventAggregator  
+                services.AddSingleton<IEventAggregator, EventAggregator>();
+
             }).Build();
 
         /// <summary>
         /// Gets registered service.
+        /// 实现了依赖注入和代码重用。
         /// </summary>
         /// <typeparam name="T">Type of the service to get.</typeparam>
         /// <returns>Instance of the service or <see langword="null"/>.</returns>
